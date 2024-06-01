@@ -269,3 +269,9 @@ deal remaining uses as damage.[X]
 Increase movement of all[N]
 allied units in a 3 tile[N] 
 radius by 3.[X]
+
+## UM_Promote
+ Promote[X]
+ 
+## UM_PromoteDesc
+Promote this unit.[X]

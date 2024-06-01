@@ -216,7 +216,7 @@ UnitMenuTable:
   
   //UM_Supply
   MenuCommand(0x68F,0x6D5,GreenText,NewSupplyUsability,0x23FB8)
-  
+MenuCommand(UM_Promote, UM_PromoteDesc, GreenText, PromoteUsability, PromoteEffect) 
   UM_Wait
 
   UM_Separator 
