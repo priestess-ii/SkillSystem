@@ -351,10 +351,6 @@ MultiscaleID
 // By Vesly 
 FlankID 
 
-//Swarm: If an adjacent target is surrounded, deal 50% more damage.
-// By Vesly 
-SwarmID 
-
 //Proc Skills
 
 //Adept: Gain a consecutive attack. (Speed % activation)
@@ -818,6 +814,10 @@ CunningID
 //Snow Warning: On the first turn of the map, set the weather condition to snowy.
 //By Jester
 SnowWarningID 255
+
+//Swarm: If an adjacent target is surrounded, deal 50% more damage.
+// By Vesly 
+SwarmID // broken atm 
 
 //Sandstream: On the first turn of the map, set the weather condition to a sandstorm
 //By Jester
