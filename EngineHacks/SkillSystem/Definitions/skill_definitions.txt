@@ -801,7 +801,9 @@ CunningID
 
 
 
-
+//HeavyMetal: +5 bonus constitution
+//By Jester
+HeavyMetalID
 
 
 
@@ -1489,10 +1491,30 @@ AmischeID
 TriangleAttackID
 
 
+//PastelVeil: Allies in a 3 tile radius are immune to poison.
+//By Jester
+PastelVeilID
+
+//Pathfinder: Allies within 3 spaces can Canto.
+// By Devisio
+PathfinderID
+
+//Merciless: Guranteed critical hit against poisoned foes.
+//By Jester
+MercilessID
+
+//Stone Body: If your CON is greater than the enemy's reduce incoming physical damage by the difference.
+//By Jester
+StoneBodyID
 
 
+//Pursuer: If initiating, AS +5, deals damage = 25% of Spd, Double attacks hit again.
+// By Devisio
+PursuerID
 
-
+//Decapitator: Grants Atk = foe's missing HP; +80 Hit/Crit if foe's HP is below half.
+// By Devisio
+DecapitatorID
 
 //Biorhythm Skills: Double or halve biorhythm effects.
 //By Sme

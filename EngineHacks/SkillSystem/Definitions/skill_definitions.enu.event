@@ -226,6 +226,7 @@
 #define DanceID 0xE2
 #define SlayerID 0xE3
 #define CunningID 0xE4
+#define HeavyMetalID 0xE5
 #define SnowWarningID 0xFF
 #define SwarmID 0xFF
 #define SandstreamID 0xFF
@@ -414,6 +415,12 @@
 #define PoiseID 0xFF
 #define AmischeID 0xFF
 #define TriangleAttackID 0xFF
+#define PastelVeilID 0xFF
+#define PathfinderID 0xFF
+#define MercilessID 0xFF
+#define StoneBodyID 0xFF
+#define PursuerID 0xFF
+#define DecapitatorID 0xFF
 #define TempestID 0xFF
 #define SerenityID 0xFF
 #define PersonalityID 0xFF
