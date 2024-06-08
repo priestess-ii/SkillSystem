@@ -70,12 +70,16 @@ push {lr}
 ldr r1,=gActiveUnit
 ldr r3,[r1]
 
-ldr r0,[r3,#4]  @RAMUnit->Class
-ldrb r0,[r0,#4] @RAMUnit->Class->ID
+ldr r0,[r3,#0]  @RAMUnit->Char
+ldrb r0,[r0,#4] @RAMUnit->Char->ID
 
 ldr r1,=0x08023F78  @SupplyUsability => cmp r0, #0x51
 ldrb r1,[r1]
-cmp r0,r1           @check #0x51
+cmp r0, #0x3b 
+beq IsPhantom_ReturnTrue
+cmp r0, #0x3e 
+beq IsPhantom_ReturnTrue
+cmp r0, #0x3f 
 beq IsPhantom_ReturnTrue
 
 @check 7743's summon
