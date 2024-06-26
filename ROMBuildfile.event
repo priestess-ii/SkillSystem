@@ -1,6 +1,5 @@
 #ifdef _FE8_
 #define SKILLSYS_INSTALLED 
-#define STRMAG_INSTALLED 
     #include "EAstdlib.event"
     #include "CustomDefinitions.event"
 //PROTECT $25224
