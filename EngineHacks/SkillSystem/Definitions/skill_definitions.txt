@@ -64,12 +64,10 @@ SpdTakerID
 DefTakerID 
 ResTakerID 
 LukTakerID 
-MagTakerID 
 MovTakerID 
 
 // Hone _ : At the start of your turn, give adjacent allies up to +3 _. 
 // By Vesly 
-HoneMagID   
 HoneStrID  
 HoneSklID   
 HoneSpdID   
@@ -80,7 +78,6 @@ HoneMovID
 
 // _ Oath : At the start of your turn, gain up to +4 _ if adjacent to an ally.
 // By Vesly 
-MagOathID   
 StrOathID  
 SklOathID   
 SpdOathID   
@@ -92,7 +89,7 @@ MovOathID
 
 // _ Initiative: Begin the chapter with +7 __. 
 // By Vesly 
-CleverInitID // Mag
+
 StrongInitID // Str 
 DeftInitID // Skl 
 QuickInitID // Spd 
@@ -113,8 +110,7 @@ SealSpdID
 SealLukID
 SealDefID
 SealResID
-////By Snakey1
-SealMagID
+
 
 
 //EXP Skills
@@ -146,9 +142,6 @@ AmaterasuID
 
 
 
-//Imbue: Recover HP equal to Magic at the start of each turn.
-//By Sme
-ImbueID
 
 //Movement Skills
 
@@ -741,7 +734,6 @@ ConcealedWeaponID
 
 // Rouse _ : At the start of your turn, gain up to +4 _ if not adjacent to an ally.
 // By Vesly 
-RouseMagID 
 RouseStrID
 RouseSklID 
 RouseSpdID 
@@ -816,6 +808,19 @@ HeavyMetalID
 //Snow Warning: On the first turn of the map, set the weather condition to snowy.
 //By Jester
 SnowWarningID 255
+
+
+//Imbue: Recover HP equal to Magic at the start of each turn.
+//By Sme
+ImbueID
+RouseMagID 
+HoneMagID   
+MagOathID   
+MagTakerID 
+CleverInitID // Mag
+////By Snakey1
+SealMagID
+
 
 //Swarm: If an adjacent target is surrounded, deal 50% more damage.
 // By Vesly 
