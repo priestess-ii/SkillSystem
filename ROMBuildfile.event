@@ -29,6 +29,7 @@
     #endif // USE_TEST_MAP
 	
 	#include "../SRR_FEGBA/RomBuildfile.event" 
+	//#include "../SRR_FEGBA/test negative stats.event" 
 
     MESSAGE Used free space ends at currentOffset
 #else
