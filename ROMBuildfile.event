@@ -2,9 +2,8 @@
 #define SKILLSYS_INSTALLED 
     #include "EAstdlib.event"
     #include "CustomDefinitions.event"
-//PROTECT $25224
+//PROTECT $24670
     ORG FreeSpace
-
     #include "repointedTextTable.event"
 
     //Text first for Text ID definitions
@@ -28,6 +27,7 @@
     #include "Maps/MasterMapInstaller.event"
     #endif // USE_TEST_MAP
 	
+    
 	#include "../SRR_FEGBA/RomBuildfile.event" 
 	//#include "../SRR_FEGBA/test negative stats.event" 
 

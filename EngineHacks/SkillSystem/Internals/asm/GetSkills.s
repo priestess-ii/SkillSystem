@@ -104,7 +104,7 @@ lop:
 	cmp  r0, #0
 	beq  continue
 mov r1, r4 
-bl RandomizeSkill
+@bl RandomizeSkill
 	cmp  r0, #0
 	beq  continue
 	strb r0, [r5]

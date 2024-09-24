@@ -386,7 +386,7 @@ GetInitialSkillList:
 
 ALIGN 4
 GetUnitLevelSkills:
-	#incbin "asm/GetUnitLevelSkills.dmp"
+	#include "asm/GetUnitLevelSkills.lyn.event"
 	POIN ClassLevelUpSkillTable
 	POIN CharLevelUpSkillTable
 

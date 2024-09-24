@@ -90,7 +90,8 @@ SkillBuffer* MakeSkillBuffer(struct Unit* unit, SkillBuffer* buffer) {
             if (!IsSkillIDValid(unitBWL->skills[i])) {
                 break;
             }
-            buffer->skills[count++] = RandomizeSkill(unitBWL->skills[i], unit);
+            //buffer->skills[count++] = RandomizeSkill(unitBWL->skills[i], unit);
+            buffer->skills[count++] = unitBWL->skills[i];
         }
     }
 
