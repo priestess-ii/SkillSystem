@@ -10,6 +10,9 @@
     #include "Text/InstallTextData.event"
     MESSAGE Used text space ends at currentOffset
 
+    #include "../SRR_FEGBA/gfx/Installer.event" 
+    MESSAGE Gfx space ends at currentOffset 
+
     //CSV tables
     #include "Tables/TableInstaller.event"
     MESSAGE Used table space ends at currentOffset

@@ -1,0 +1,254 @@
+
+
+
+## EliwoodName
+Eliwood[X]
+## EliwoodDesc
+Marquess Pherae's young[N]
+son. Just and honorable.[X]
+## HectorName
+Hector[X]
+## HectorDesc
+Marquess Ostia's younger[N]
+brother. Reckless, but loyal.[X]
+## LynName
+Lyn[X]
+## LynDesc
+A young girl from the Lorca[N]
+tribe. Stouthearted and kind.[X]
+## RavenName
+Raven[X]
+## RavenDesc
+A troubled mercenary with a[N]
+grudge against House Ostia.[X]
+## GeitzName
+Geitz[X]
+## GeitzDesc
+The eldest son of a wealthy[N]
+merchant. Finding himself.[X]
+## GuyName
+Guy[X]
+## GuyDesc 
+A youth from Sacae. Yearns[N]
+to be a swordmaster.[X]
+## KarelName
+Karel[X]
+## KarelDesc
+An eastern swordmaster.[N]
+Seeking worthy opponents.[X]
+## DorcasName
+Dorcas[X]
+## DorcasDesc 
+A man from a small village in[N]
+Bern. Fights for his wife.[X]
+## BartreName
+Bartre[X]
+## BartreDesc
+One of Eliwood's guardsmen.[N]
+Duty is everything to him.[X]
+## CitizenName
+Citizen[X]
+## CitizenDesc
+Citizen[X]
+## OswinName
+Oswin[X]
+## OswinDesc
+A knight in service to House[N]
+Ostia. Hector's sworn man.[X]
+## FargusName
+Fargus[X]
+## FargusDesc
+The captain of a band of[N]
+corsairs. A generous man.[X]
+## WilName
+Wil[X]
+## WilDesc
+A youth from Pherae, in the[N]
+Lycian League. Very social.[X]
+## RebeccaName
+Rebecca[X]
+## RebeccaDesc
+A youth from Pherae. Very[N]
+helpful and bright.[X]
+## LouiseName
+Louise[X]
+## LouiseDesc
+The wife of Marquess[N]
+Reglay. A lethal beauty.[X]
+## LuciusName
+Lucius[X]
+## LuciusDesc
+A traveling acolyte.[N]
+Gentle and serene.[X]
+## SerraName
+Serra[X]
+## SerraDesc
+A cleric in service to House[N]
+Ostia. Headstrong and bold.[X]
+## RenaultName
+Renault[X]
+## RenaultDesc
+A cleric wandering Valor.[N]
+Shrouded in mystery.[X]
+## ErkName
+Erk[X]
+## ErkDesc
+A young mage from Etruria.[N]
+Charming, but uptight.[X]
+## NinoName
+Nino[X]
+## NinoDesc
+One of the Black Fang.[N]
+True and innocent.[X]
+## PentName
+Pent[X]
+## PentDesc
+Marquess of Reglay. Sole[N]
+student of Archsage Athos.[X]
+## CanasName
+Canas[X]
+## CanasDesc
+A scholar, and a novice[N]
+student of ancient magics.[X]
+## KentName
+Kent[X]
+## KentDesc
+A knight in service to house[N]
+Caelin. Virtuous to a fault.[X]
+## SainName
+Sain[X]
+## SainDesc
+A knight in service to house[N]
+Caelin. A bit of a scoundrel.[X]
+## LowenName
+Lowen[X]
+## LowenDesc
+A knight in service to House[N]
+Pherae. A fresh recruit.[X]
+## MarcusName
+Marcus[X]
+## MarcusDesc
+A paladin serving House[N]
+Pherae. A skilled veteran.[X]
+## PriscillaName
+Priscilla[X]
+## PriscillaDesc
+A vassal in service to Count[N]
+Caerleon of Etruria.[X]
+## RathName
+Rath[X]
+## RathDesc
+A young hired sword from[N]
+the Kutolah tribe.[X]
+## FlorinaName
+Florina[X]
+## FlorinaDesc
+A pegasus knight earning[N]
+her title. A friend of Lyn's.[X]
+## FioraName
+Fiora[X]
+## FioraDesc
+Commander of the 5th wing[N]
+of Ilia's pegasus knights.[X]
+## FarinaName
+Farina[X]
+## FarinaDesc
+A member of the 3rd wing[N]
+of Ilia's pegasus knights.[X]
+## HeathName
+Heath[X]
+## HeathDesc
+A deserter from Bern's[N]
+wyvern riders. Prideful.[X]
+## VaidaName
+Vaida[X]
+## VaidaDesc
+A deserter from Bern's[N]
+wyvern riders. Brutal.[X]
+## HawkeyeName
+Hawkeye[X]
+## HawkeyeDesc
+A wyvern rider to whom dark[N]
+magic has given strength.[X]
+## MatthewName
+Matthew[X]
+## MatthewDesc
+The protector of Nabata. A[N]
+mysterious air surrounds him.[X]
+## JaffarName
+Jaffar[X]
+## JaffarDesc
+The Black Fang's Angel of[N]
+Death. Once served Nergal.[X]
+## NinianName
+Ninian[X]
+## NinianDesc
+A somber girl. Quiet, but[N]
+filled with a solemn energy.[X]
+## NilsName
+Nils[X]
+## NilsDesc
+A bard possessing arcane[N]
+powers. Brother of Ninian.[X]
+## AthosName
+Athos[X]
+## AthosDesc
+An archsage. One of the[N]
+eight legendary heroes.[X]
+## MerlinusName
+Merlinus[X]
+## MerlinusDesc
+A traveling merchant. Timid[N]
+and easily frightened.[X]
+## UtherName
+Uther[X]
+## UtherDesc
+Marquess Ostia, the head[N]
+of the Lycian League.[X]
+## WallaceName
+Wallace[X]
+## WallaceDesc
+A retired knight of Caelin.[N]
+Constantly testing himself.[X]
+## DartName
+Dart[X]
+## DartDesc
+One of Fargus's corsairs.[N]
+Foulmouthed, but kind.[X]
+## IsadoraName
+Isadora[X]
+## IsadoraDesc
+A paladin in service to House[N]
+Pherae. Modest and polite.[X]
+## EleanoraName
+Eleanora[X]
+## EleanoraDesc
+The wife of Marquess[N]
+Pherae. Eliwood's mother.[X]
+## LegaultName
+Legault[X]
+## LegaultDesc
+A former Black Fang once[N]
+known as Hurricane.[X]
+## KarlaName
+Karla[X]
+## KarlaDesc
+A dedicated swordfighter.[N]
+Cool and detached.[X]
+## HarkenName
+Harken[X]
+## HarkenDesc
+The sole survivor of the[N]
+Knights of Pherae.[X]
+## LeilaName
+Leila[X]
+## LeilaDesc
+A spy in service to[N]
+House Ostia.[X]
+## BramimondName
+Bramimond[X]
+## BramimondDesc
+A mysterious figure who[N]
+wields an ancient power.[X]
+
+
