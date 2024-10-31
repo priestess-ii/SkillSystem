@@ -537,3 +537,283 @@ A mysterious figure who[N]
 wields an ancient power.[X]
 
 
+
+
+## IkeName
+Ike[X]
+## IkeDesc
+A young mercenary and son of Greil.[N]
+Determined to protect his friends.[X]
+
+## TitaniaName
+Titania[X]
+## TitaniaDesc
+A former knight of Crimea.[N]
+Mentors Ike and serves the Greil Mercs.[X]
+
+## OscarName
+Oscar[X]
+## OscarDesc
+A skilled lancer from the Greil Mercs.[N]
+Values loyalty and protects his brother.[X]
+
+## BoydName
+Boyd[X]
+## BoydDesc
+A strong mercenary from the Greil Mercs.[N]
+Loyal and cares deeply for comrades.[X]
+
+## RhysName
+Rhys[X]
+## RhysDesc
+A kind healer from the Greil Mercs.[N]
+Dedicated to supporting friends.[X]
+
+## ShinonName
+Shinon[X]
+## ShinonDesc
+A skilled archer in the Greil Mercs.[N]
+Gruff but values his comrades.[X]
+
+## GatrieName
+Gatrie[X]
+## GatrieDesc
+A cheerful knight with a friendly smile.[N]
+Committed to protecting his friends.[X]
+
+## SorenName
+Soren[X]
+## SorenDesc
+Tactician for the Greil Mercs.[N]
+Serious and values intelligence.[X]
+
+## MiaName
+Mia[X]
+## MiaDesc
+Cheerful and energetic swordswoman.[N]
+Loves to challenge strong foes.[X]
+
+## IlyanaName
+Ilyana[X]
+## IlyanaDesc
+A mage with a love for food.[N]
+Kind-hearted and supports her friends.[X]
+
+## MarciaName
+Marcia[X]
+## MarciaDesc
+A spirited pegasus knight from Crimea.[N]
+Determined to prove her skills.[X]
+
+## MistName
+Mist[X]
+## MistDesc
+A healer and Ike's younger sister.[N]
+Caring and supports friends in fights.[X]
+
+## RolfName
+Rolf[X]
+## RolfDesc
+Young archer and son of a mercenary.[N]
+Eager to prove himself and grow.[X]
+
+## LetheName
+Lethe[X]
+## LetheDesc
+A laguz warrior from Gallia.[N]
+Fierce and protective of her land.[X]
+
+## MordecaiName
+Mordecai[X]
+## MordecaiDesc
+A laguz warrior who can transform.[N]
+Loyal and protects his allies.[X]
+
+## VolkeName
+Volke[X]
+## VolkeDesc
+Skilled thief and information gatherer.[N]
+Mysterious and values independence.[X]
+
+
+## KieranName
+Kieran[X]
+## KieranDesc
+A cheerful and bold knight of Crimea.[N]
+Loves to charge into battle.[X]
+
+## BromName
+Brom[X]
+## BromDesc
+A gentle knight with strong values.[N]
+Protects friends with loyalty.[X]
+
+## NepheneeName
+Nephenee[X]
+## NepheneeDesc
+A lance-wielding soldier from Crimea.[N]
+Determined to defend her homeland.[X]
+
+## ZiharkName
+Zihark[X]
+## ZiharkDesc
+A noble swordsman with honor.[N]
+Fights for justice and the weak.[X]
+
+## JillName
+Jill[X]
+## JillDesc
+A pegasus knight from Daein.[N]
+Struggles with loyalty in battle.[X]
+
+## SotheName
+Sothe[X]
+## SotheDesc
+Skilled thief and loyal to Micaiah.[N]
+Values friendship and protects others.[X]
+
+## AstridName
+Astrid[X]
+## AstridDesc
+A noblewoman who becomes a mercenary.[N]
+Strives to prove herself in battle.[X]
+
+## MakalovName
+Makalov[X]
+## MakalovDesc
+A carefree, laid-back mercenary.[N]
+Often seeks the easy way but fights.[X]
+
+## StefanName
+Stefan[X]
+## StefanDesc
+A mysterious swordsman of great skill.[N]
+Wanders and appears in times of need.[X]
+
+## MuarimName
+Muarim[X]
+## MuarimDesc
+A calm laguz warrior.[N]
+Fights fiercely to protect friends.[X]
+
+## TormodName
+Tormod[X]
+## TormodDesc
+Young mage with a strong sense of justice.[N]
+Seeks to help those in need.[X]
+
+## DevdanName
+Devdan[X]
+## DevdanDesc
+A knight with a jovial personality.[N]
+Fights with a strong sense of duty.[X]
+
+## TanithName
+Tanith[X]
+## TanithDesc
+A skilled pegasus knight and guard leader.[N]
+Dedicated to protecting her kingdom.[X]
+
+## ReysonName
+Reyson[X]
+## ReysonDesc
+A songstress of the Heron tribe.[N]
+Possesses powerful abilities to aid others.[X]
+
+## JanaffName
+Janaff[X]
+## JanaffDesc
+A laguz warrior known for speed.[N]
+Loyal to friends and his homeland.[X]
+
+## UlkiName
+Ulki[X]
+## UlkiDesc
+A carefree laguz warrior.[N]
+Enjoys life and fights for allies.[X]
+
+## CalillName
+Calill[X]
+## CalillDesc
+A skilled mage with strong will.[N]
+Supports friends with her magic.[X]
+
+## TauroneoName
+Tauroneo[X]
+## TauroneoDesc
+A noble knight known for his loyalty.[N]
+Fights to protect those in need.[X]
+
+## RanulfName
+Ranulf[X]
+## RanulfDesc
+A laguz warrior and protector of the forest.[N]
+Strong-willed and fiercely loyal.[X]
+
+## HaarName
+Haar[X]
+## HaarDesc
+Laid-back wyvern rider with great strength.[N]
+Fights for friends but avoids trouble.[X]
+
+## LuciaName
+Lucia[X]
+## LuciaDesc
+A skilled swordfighter and loyal knight.[N]
+Serves to protect her kingdom.[X]
+
+## BastianName
+Bastian[X]
+## BastianDesc
+Clever strategist and nobleman of Crimea.[N]
+Supports allies with intellect.[X]
+
+## GeoffreyName
+Geoffrey[X]
+## GeoffreyDesc
+Commander of the knights of Crimea.[N]
+Dedicated to protecting his kingdom.[X]
+
+## LargoName
+Largo[X]
+## LargoDesc
+A carefree and skilled warrior.[N]
+Values freedom and enjoys battle.[X]
+
+## ElinciaName
+Elincia[X]
+## ElinciaDesc
+Princess of Crimea with strong ideals.[N]
+Fights to restore her kingdom.[X]
+
+## EnaName
+Ena[X]
+## EnaDesc
+A dragon noble with a calm demeanor.[N]
+Fights to protect her tribe.[X]
+
+## NasirName
+Nasir[X]
+## NasirDesc
+A wise dragon who aids the laguz.[N]
+Values peace and protects the world.[X]
+
+## TibarnName
+Tibarn[X]
+## TibarnDesc
+The king of the hawk laguz.[N]
+Fights for freedom and justice.[X]
+
+## NaesalaName
+Naesala[X]
+## NaesalaDesc
+King of the raven laguz, known for cunning.[N]
+Plays both sides for his people.[X]
+
+## GiffcaName
+Giffca[X]
+## GiffcaDesc
+A noble laguz warrior known for strength.[N]
+Fights to protect allies and land.[X]
+
+

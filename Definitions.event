@@ -86,6 +86,34 @@
 //#if IsSymbolDefined(RoyLord); #else; MESSAGE 2; #endif 
 // #define RoyLord Mercenary
 
+
+#define Earth 0 
+#define Wind 0 
+#define Water 0 
+#define Heaven 0 
+
+
+
+#define IkeLord Mercenary 
+
+#define LanceKnight Cavalier 
+#define Cat Myrmidon
+#define Tiger Fighter 
+#define AxeKnight Pirate
+#define BowKnight Archer
+#define SwordKnight Cavalier
+#define Halberdier Knight 
+#define FalconKnight WyvernRider
+#define Heron Priest
+#define PrincessCrimea EirikaLord
+#define RedDragon Berserker 
+#define WhiteDragon General 
+#define Hawk Hero
+#define Raven Swordmaster
+#define Lion General 
+
+
+
 #define defr(name, value) "#define name value" 
 
 defr(RoyLord, Mercenary) 
