@@ -2,6 +2,7 @@
 #define SKILLSYS_INSTALLED 
     #include "EAstdlib.event"
     #include "CustomDefinitions.event"
+#include "Definitions.event" 
 //PROTECT $24670
     ORG FreeSpace
     #include "repointedTextTable.event"

@@ -1,0 +1,48 @@
+
+
+// For classes that don't exist in FE8 
+
+// #define IsSymbolDefined(name) "(((name) || 1) ?? 0)"
+#ifndef NotDef 
+    #define NotDef(name) "(((name) || 0) ?? 1)"
+#endif 
+#ifndef defr 
+    #define defr(name, value) "#if NotDef(name); #define name value; #endif"
+#endif 
+
+
+// #if NotDef(UndefinedThing); #define asdf 12; MESSAGE asdf; #endif 
+// MESSAGE asdf
+
+// #ifndef EliwoodLord ; MESSAGE 12; #endif 
+
+// #ifndef EliwoodLord 
+    // #define EliwoodLord Mercenary 
+// #endif 
+
+// defr(EliwoodLord, Mercenary) 
+
+defr(EliwoodLord, Mercenary)
+defr(LynLord, Myrmidon)
+defr(HectorLord, Knight)
+
+defr(KnightLord, Mercenary)
+defr(BladeLord, Myrmidon)
+defr(GreatLord, Knight)
+
+defr(Thief_F, Thief )
+defr(Peer_F, Paladin_F)
+defr(Nomad, Archer )
+defr(Transporter, Knight )
+defr(Archsage, Sage )
+defr(Villager, Myrmidon )
+
+
+
+
+
+
+
+
+
+
