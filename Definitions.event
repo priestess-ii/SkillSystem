@@ -1,26 +1,101 @@
 
 
+// #define qwer\
+    // "MESSAGE 123; \
+    // MESSAGE 456"
+    
+// qwer 
+
 // For classes that don't exist in FE8 
-
 // #define IsSymbolDefined(name) "(((name) || 1) ?? 0)"
-#ifndef NotDef 
-    #define NotDef(name) "(((name) || 0) ?? 1)"
-#endif 
-#ifndef defr 
-    #define defr(name, value) "#if NotDef(name); #define name value; #endif"
-#endif 
-
-
-// #if NotDef(UndefinedThing); #define asdf 12; MESSAGE asdf; #endif 
-// MESSAGE asdf
-
-// #ifndef EliwoodLord ; MESSAGE 12; #endif 
-
-// #ifndef EliwoodLord 
-    // #define EliwoodLord Mercenary 
+// #define IsSymbolDefined(name) "!(((name) || 1) ?? 0)"
+// #define NotDef(name) "!(((name) || 1) ?? 0)"
+// #define nd(name) "!(((name) || 1) ?? 0)"
+// #ifndef NotDef 
+    // #define NotDef(name) "(((name) || 0) ?? 1)"
+    // #define NotDef(name) "((((name) && 0) ?? 1))"
+    // #define nd(name) "(((name) && 0) ?? 1)"
+// #endif 
+// #ifndef defr 
+    // #define defr(name, value) "#if NotDef(name); #define name value; #endif"
+    // #define defr(name, value) \
+    // "#if NotDef(name);\
+    // MESSAGE 1;\
+    // #define name value;\
+    // #endif"
+    //MESSAGE 2"
+    //#endif"
+    // #define defr(name, value) "#if IsSymbolDefined(name); MESSAGE; #else; MESSAGE 2; #endif"
 // #endif 
 
-// defr(EliwoodLord, Mercenary) 
+// #define RoyLord 1
+// #if IsSymbolDefined(RoyLord)
+// #if (((RoyLord) || 1) ?? 0)
+// #if NotDef(RoyLord)
+// #define RoyLord 3 
+// #endif 
+
+// #if NotDef(RoyLord)
+// #define RoyLord 3 
+// #endif 
+
+// #if NotDef(RoyLord)
+// #define RoyLord 3 
+// #endif 
+
+
+// #define RoyLord 3
+
+
+// #if NotDef(RoyLord)
+// #define RoyLord 3 
+// #endif 
+
+
+// #define defr(name) "!(((name) || 1) ?? 0)"
+// #if defr(RoyLord) 
+// #define RoyLord 12; #endif
+
+// #if defr(RoyLord) 
+// #define RoyLord 12; #endif
+
+
+
+// #if IsSymbolDefined(RoyLord); MESSAGE 1; #else; #define RoyLord "12"; #endif 
+// #if IsSymbolDefined(RoyLord); MESSAGE 1; #else; #define RoyLord "12"; #endif 
+// #if IsSymbolDefined(RoyLord); MESSAGE 1; #else; #define RoyLord "12"; #endif 
+
+// #ifndef RoyLord
+// #define RoyLord 12
+// #endif 
+
+
+// #if NotDef(RoyLord)
+// #define RoyLord 12
+// #endif
+// #if NotDef(RoyLord)
+// #define RoyLord 12
+// #endif
+// #if NotDef(RoyLord); MESSAGE 3; #define RoyLord 12; #endif 
+
+
+// defr(RoyLord, Mercenary) 
+// defr(RoyLord, Mercenary) 
+
+// "undefined-coalescing" operator '??' ('L ?? R' evaluates to L if L does not contain undefined symbols, R otherwise)
+//#if IsSymbolDefined(RoyLord); #else; MESSAGE 2; #endif 
+// #define RoyLord Mercenary
+
+#define defr(name, value) "#define name value" 
+
+defr(RoyLord, Mercenary) 
+// defr(RoyLord, Mercenary) 
+// defr(Manakete_2_F, Mamkute_F)
+defr(Mamkute_F, Manakete_2_F)
+defr(Nomad, Archer )
+defr(Nomad_F, Archer_F )
+defr(NomadTrooper, Ranger )
+defr(NomadTrooper_F, Ranger )
 
 defr(EliwoodLord, Mercenary)
 defr(LynLord, Myrmidon)
@@ -32,7 +107,6 @@ defr(GreatLord, Knight)
 
 defr(Thief_F, Thief )
 defr(Peer_F, Paladin_F)
-defr(Nomad, Archer )
 defr(Transporter, Knight )
 defr(Archsage, Sage )
 defr(Villager, Myrmidon )
