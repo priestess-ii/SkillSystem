@@ -817,3 +817,136 @@ A noble laguz warrior known for strength.[N]
 Fights to protect allies and land.[X]
 
 
+## MicaiahName  
+Micaiah[X]
+## MicaiahDesc  
+Leader of the Dawn Brigade and a seer.[N]  
+Seeks to protect her people and end pain.[X]
+
+## EdwardName  
+Edward[X]
+## EdwardDesc  
+A young swordsman from the Dawn Brigade.[N]  
+Determined to prove his strength in battle.[X]
+
+## LeonardoName  
+Leonardo[X]
+## LeonardoDesc  
+An archer from the Dawn Brigade, calm.[N]  
+Fights for his friends and their future.[X]
+
+## NolanName  
+Nolan[X]
+## NolanDesc  
+A wise warrior with a strong sense of duty.[N]  
+Protects his allies with loyalty and strength.[X]
+
+## LauraName  
+Laura[X]
+## LauraDesc  
+A kind healer dedicated to her friends.[N]  
+Helps those in need on the battlefield.[X]
+
+## AranName  
+Aran[X]
+## AranDesc  
+A steadfast knight known for his will.[N]  
+He fights for justice and to protect others.[X]
+
+## FionaName  
+Fiona[X]
+## FionaDesc  
+A noble knight with a strong sense of duty.[N]  
+Fights to protect her homeland and kin.[X]
+
+## PelleasName  
+Pelleas[X]
+## PelleasDesc  
+The prince of Daein, seeking his land.[N]  
+Strives to unite his people and restore peace.[X]
+
+## JarodName  
+Jarod[X]
+## JarodDesc  
+A cruel general of the Daein army.[N]  
+Ruthless and seeks power above all else.[X]
+
+## IzukaName  
+Izuka[X]
+## IzukaDesc  
+A cunning and manipulative mage.[N]  
+Conducts experiments for personal gain.[X]
+
+## HeatherName  
+Heather[X]
+## HeatherDesc  
+A skilled thief with a cheeky attitude.[N]  
+Seeks treasure and values her freedom.[X]
+
+## LeanneName  
+Leanne[X]
+## LeanneDesc  
+A songstress of the Heron tribe, kind.[N]  
+Aids her friends with her abilities.[X]
+
+## VikaName  
+Vika[X]
+## VikaDesc  
+A laguz raven who values freedom.[N]  
+Protects her friends at all costs.[X]
+
+## NailahName  
+Nailah[X]
+## NailahDesc  
+Queen of the wolf laguz, fierce and proud.[N]  
+Fights to protect her people and kin.[X]
+
+## RafielName  
+Rafiel[X]
+## RafielDesc  
+A gentle songstress of the Heron tribe.[N]  
+Aids allies with healing abilities.[X]
+
+## KyzaName  
+Kyza[X]
+## KyzaDesc  
+A laguz tiger with a strong sense of honor.[N]  
+Fights for justice and to protect others.[X]
+
+## LyreName  
+Lyre[X]
+## LyreDesc  
+A spirited laguz cat who values friends.[N]  
+Fights for her allies with determination.[X]
+
+## CaineghisName  
+Caineghis[X]
+## CaineghisDesc  
+King of the beast laguz, wise and strong.[N]  
+Fights to protect his people and kin.[X]
+
+## KurthnagaName  
+Kurthnaga[X]
+## KurthnagaDesc  
+Gentle dragon prince, calm and thoughtful.[N]  
+Seeks peace between laguz and beorc.[X]
+
+## GarethName  
+Gareth[X]
+## GarethDesc  
+A wise and strong laguz bear, noble.[N]  
+Protects his allies and fights for justice.[X]
+
+## MegName  
+Meg[X]
+## MegDesc  
+A cheerful and kind-hearted soldier.[N]  
+Fights for friends and dreams of glory.[X]
+
+## VolugName  
+Volug[X]
+## VolugDesc  
+A laguz wolf, quiet but fiercely loyal.[N]  
+Protects Micaiah and his allies.[X]
+
+

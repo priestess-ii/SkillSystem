@@ -86,11 +86,20 @@
 //#if IsSymbolDefined(RoyLord); #else; MESSAGE 2; #endif 
 // #define RoyLord Mercenary
 
+// #define FireAffinity 1
+// #define ThunderAffinity 2
+// #define WindAffinity 3
+// #define IceAffinity 4
+// #define DarkAffinity 5
+// #define LightAffinity 6
+// #define AnimaAffinity 7
 
-#define Earth 0 
-#define Wind 0 
-#define Water 0 
-#define Heaven 0 
+
+#define EarthAffinity 7 //AnimaAffinity
+// #define Wind 2 
+#define WaterAffinity 4 //IceAffinity
+#define HeavenAffinity 6 //LightAffinity
+#define LightningAffinity 2 // ThunderAffinity
 
 
 
