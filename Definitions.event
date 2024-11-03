@@ -86,6 +86,30 @@
 //#if IsSymbolDefined(RoyLord); #else; MESSAGE 2; #endif 
 // #define RoyLord Mercenary
 
+
+#define MerricMug BlankMug 
+#define MatthisMug BlankMug 
+#define WendellMug BlankMug 
+#define RickardMug BlankMug 
+#define BantuMug BlankMug 
+#define CaesarMug BlankMug 
+#define RogerMug BlankMug 
+#define JeorgeMug BlankMug 
+// #define JakeMug BlankMug 
+#define BoahMug BlankMug 
+#define TomasMug BlankMug 
+#define DolphMug BlankMug 
+#define MacellanMug BlankMug 
+#define SamsonMug BlankMug 
+#define GotohMug BlankMug 
+#define FreyMug BlankMug 
+#define HoraceMug BlankMug 
+#define EtzelMug BlankMug 
+#define YmirMug BlankMug 
+#define NagiMug BlankMug 
+
+
+
 // #define FireAffinity 1
 // #define ThunderAffinity 2
 // #define WindAffinity 3
@@ -102,6 +126,13 @@
 #define LightningAffinity 2 // ThunderAffinity
 
 
+#define MarthLord Mercenary 
+#define Hunter Thief 
+#define Horseman Cavalier 
+#define Mamkute Manakete_2_F 
+#define Ballistician Archer 
+#define Freelancer EphraimLord 
+#define Sorcerer Sage 
 
 #define IkeLord Mercenary 
 
