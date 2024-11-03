@@ -334,7 +334,8 @@ Duty is everything to him.[X]
 ## CitizenName
 Citizen[X]
 ## CitizenDesc
-Citizen[X]
+A citizen who is ready. [N]
+to fight[X]
 ## OswinName
 Oswin[X]
 ## OswinDesc
@@ -663,7 +664,7 @@ Fights for justice and the weak.[X]
 ## JillName
 Jill[X]
 ## JillDesc
-A pegasus knight from Daein.[N]
+A wyvern knight from Daein.[N]
 Struggles with loyalty in battle.[X]
 
 ## SotheName
@@ -711,7 +712,7 @@ Fights with a strong sense of duty.[X]
 ## TanithName
 Tanith[X]
 ## TanithDesc
-A skilled pegasus knight and guard leader.[N]
+Skilled pegasus knt. and guard leader.[N]
 Dedicated to protecting her kingdom.[X]
 
 ## ReysonName
@@ -747,13 +748,13 @@ Fights to protect those in need.[X]
 ## RanulfName
 Ranulf[X]
 ## RanulfDesc
-A laguz warrior and protector of the forest.[N]
+Forest guardian and laguz warrior.[N]
 Strong-willed and fiercely loyal.[X]
 
 ## HaarName
 Haar[X]
 ## HaarDesc
-Laid-back wyvern rider with great strength.[N]
+Laid-back, powerful wyvern rider.[N]
 Fights for friends but avoids trouble.[X]
 
 ## LuciaName
@@ -765,7 +766,7 @@ Serves to protect her kingdom.[X]
 ## BastianName
 Bastian[X]
 ## BastianDesc
-Clever strategist and nobleman of Crimea.[N]
+Clever Crimean noble and strategist.[N]
 Supports allies with intellect.[X]
 
 ## GeoffreyName
