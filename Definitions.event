@@ -85,30 +85,75 @@
 // "undefined-coalescing" operator '??' ('L ?? R' evaluates to L if L does not contain undefined symbols, R otherwise)
 //#if IsSymbolDefined(RoyLord); #else; MESSAGE 2; #endif 
 // #define RoyLord Mercenary
+// #define BlankMug 0
 
 #define KyzaMug BlankMug 
 
-// #define AbelMug 1 
-#define MerricMug BlankMug 
-// #define MatthisMug BlankMug 
-// #define WendellMug BlankMug 
-// #define RickardMug BlankMug 
-// #define BantuMug BlankMug 
-// #define CaesarMug BlankMug 
-// #define RogerMug BlankMug 
-// #define JeorgeMug BlankMug 
-#define BoahMug BlankMug 
-// #define TomasMug BlankMug 
-#define DolphMug BlankMug 
-#define MacellanMug BlankMug 
-// #define SamsonMug BlankMug 
-// #define GotohMug BlankMug 
-// #define FreyMug BlankMug 
-// #define HoraceMug BlankMug 
-// #define EtzelMug BlankMug 
-// #define YmirMug BlankMug 
-// #define NagiMug BlankMug 
-// #define JakeMug BlankMug 
+#define ArdenMug BlankMug 
+#define CuanMug BlankMug 
+#define EthlinMug BlankMug 
+#define FinMug BlankMug 
+#define AzelMug BlankMug 
+#define MidayleMug BlankMug 
+#define AdeanMug BlankMug 
+#define DewMug BlankMug 
+#define DiadoraMug BlankMug 
+#define JamkaMug BlankMug 
+#define HolynMug BlankMug 
+#define SylviaMug BlankMug 
+#define NoishMug BlankMug 
+#define IraMug BlankMug 
+#define LevinMug BlankMug 
+#define FuryMug BlankMug 
+#define BriggidMug BlankMug 
+#define ClaudeMug BlankMug 
+#define TiltyuMug BlankMug 
+#define ManaMug BlankMug 
+#define RadneyMug BlankMug 
+#define RoddMug BlankMug 
+#define TristanMug BlankMug 
+#define DimnaMug BlankMug 
+#define YuriaMug BlankMug 
+#define FeminaMug BlankMug 
+#define AmidMug BlankMug 
+#define JohanMug BlankMug 
+#define JohalvaMug BlankMug 
+#define ShananMug BlankMug 
+#define DaisyMug BlankMug 
+#define JanneMug BlankMug 
+#define AlessMug BlankMug 
+#define LayleaMug BlankMug 
+#define SharlowMug BlankMug 
+#define OsianMug BlankMug 
+#define SafyMug BlankMug 
+#define MachyuaMug BlankMug 
+#define AsbelMug BlankMug 
+#define SelphinaMug BlankMug 
+#define Cain2Mug BlankMug 
+#define AlvaMug BlankMug 
+#define RobertMug BlankMug 
+#define SalemMug BlankMug 
+#define TinaMug BlankMug 
+#define TroudeMug BlankMug 
+#define GladeMug BlankMug 
+#define DeenMug BlankMug 
+#define RaifMug BlankMug 
+#define IliosMug BlankMug 
+#define SleufMug BlankMug 
+#define SaraMug BlankMug 
+#define MirandaMug BlankMug 
+#define ShannamMug BlankMug 
+#define MishaMug BlankMug 
+#define XavierMug BlankMug 
+#define ConomorMug BlankMug 
+#define DiarmuidMug BlankMug 
+#define SalasMug BlankMug 
+#define RoddlevanMug BlankMug 
+#define AsaelloMug BlankMug 
+#define LaraMug BlankMug 
+// #define Mug BlankMug 
+
+
 
 
 // #define FireAffinity 1
@@ -127,6 +172,32 @@
 #define LightningAffinity 2 // ThunderAffinity
 
 
+#define Lord Mercenary 
+#define LordKnight Mercenary 
+#define SocialKnight Cavalier 
+#define FreeKnight Cavalier 
+#define DukeKnight Cavalier 
+#define ForrestKnight Cavalier 
+#define DragonKnight WyvernKnight 
+#define DragonRider WyvernRider 
+#define ArchKnight Cavalier 
+#define BowFighter Archer 
+#define AxeFighter Fighter 
+#define Swordfighter Myrmidon 
+#define Princess Priest 
+#define Sister Priest 
+#define HighPriest Sage 
+#define WindMage Mage 
+#define ThunderMage Mage 
+#define MountainThief Brigand 
+#define ThiefFighter Thief 
+#define PegasusRider PegasusKnight 
+#define AxeArmour Knight 
+#define LoputoMage Shaman 
+
+
+
+
 #define MarthLord Mercenary 
 #define Hunter Thief 
 #define Horseman Cavalier 
@@ -143,6 +214,7 @@
 #define AxeKnight Pirate
 #define BowKnight Archer
 #define SwordKnight Cavalier
+#define SwordArmour Cavalier
 #define Halberdier Knight 
 #define FalconKnight WyvernRider
 #define Heron Priest
