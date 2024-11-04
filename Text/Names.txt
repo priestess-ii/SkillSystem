@@ -2,356 +2,409 @@
 ## MarthName  
 Marth[X]
 ## MarthDesc  
-The prince of Altea with a noble heart.[N]  
-Fights to reclaim his kingdom and peace.[X]
+The prince of Altea with a noble heart.[N]
+Fights to reclaim his kingdom and peace.[N]
+Art by BatimaTheBat[X]
 
 ## JagenName  
 Jagen[X]
 ## JagenDesc  
-A veteran knight loyal to Marth.[N]  
-Serves as a mentor and protector.[X]
+A veteran knight loyal to Marth.[N]
+Serves as a mentor and protector.[N]
+Art by Flasuban[X]
 
 ## CaedaName  
 Caeda[X]
 ## CaedaDesc  
-A pegasus knight from Talys, brave and kind.[N]  
+A pegasus knight from Talys, brave and kind.[N]
 Fights for peace and to aid Marth.[X]
 
 ## CainName  
 Cain[X]
 ## CainDesc  
-A brave knight of Altea.[N]  
-Loyal to Marth and skilled in combat.[X]
+A brave knight of Altea.[N]
+Loyal to Marth and skilled in combat.[N]
+Art by TAS20XX[X]
 
 ## AbelName  
 Abel[X]
 ## AbelDesc  
-An Altea knight known for his loyalty.[N]  
-Skilled with a lance and Marth's friend.[X]
+An Altea knight known for his loyalty.[N]
+Skilled with a lance and Marth's friend.[N]
+Art by Blueyguy[X]
 
 ## DraugName  
 Draug[X]
 ## DraugDesc  
-An armored knight defending Altea.[N]  
-Protects his allies with a sturdy defense.[X]
+An armored knight defending Altea.[N]
+Protects his allies with a sturdy defense.[N]
+Art by Wasdye, Lenh, PK_Water, NickT[X]
 
 ## GordinName  
 Gordin[X]
 ## GordinDesc  
-A young archer of Altea.[N]  
-Eager to prove his skills in battle.[X]
+A young archer of Altea.[N]
+Eager to prove his skills in battle.[N]
+Art by Blueyguy[X]
 
 ## WrysName  
 Wrys[X]
 ## WrysDesc  
-A kind cleric who aids with healing.[N]  
-Travels to assist Marth's forces.[X]
+A kind cleric who aids with healing.[N]
+Travels to assist Marth's forces.[N]
+Art by Blueyguy[X]
 
 ## OgmaName  
 Ogma[X]
 ## OgmaDesc  
-A strong mercenary from Talys.[N]  
-Leads fighters with skill and loyalty.[X]
+A strong mercenary from Talys.[N]
+Leads fighters with skill and loyalty.[N]
+Art by CirclesEverywhere, NickT[X]
 
 ## BarstName  
 Barst[X]
 ## BarstDesc  
-A brave axeman and ally of Marth.[N]  
-Known for his strength in battle.[X]
+A brave axeman and ally of Marth.[N]
+Known for his strength in battle.[N]
+Art by Nobody, Glaceo, NickT, Reyk[X]
 
 ## BordName  
 Bord[X]
 ## BordDesc  
-A warrior skilled with an axe.[N]  
+A warrior skilled with an axe.[N]
 Loyal and supportive in fights.[X]
 
 ## CordName  
 Cord[X]
 ## CordDesc  
-A fighter skilled with an axe.[N]  
-Works alongside Bord to support Marth.[X]
+A fighter skilled with an axe.[N]
+Works alongside Bord to support Marth.[N]
+Art by Frigid, NickT[X]
 
 ## DarrosName  
 Darros[X]
 ## DarrosDesc  
-A pirate who joins Marth's cause.[N]  
-Seeks redemption and fights bravely.[X]
+A pirate who joins Marth's cause.[N]
+Seeks redemption and fights bravely.[N]
+Art by flingforp, NickT[X]
 
 ## CastorName  
 Castor[X]
 ## CastorDesc  
-A hunter aiding Marth.[N]  
-Fights for his family and honor.[X]
+A hunter aiding Marth.[N]
+Fights for his family and honor.[N]
+Art by flingforp, NickT[X]
 
 ## LenaName  
 Lena[X]
 ## LenaDesc  
-A cleric with a kind heart.[N]  
-Aids Marth with healing abilities.[X]
+A cleric with a kind heart.[N]
+Aids Marth with healing abilities.[N]
+Art by Blade[X]
 
 ## JulianName  
 Julian[X]
 ## JulianDesc  
-A thief with a good heart.[N]  
-Helps Lena and Marth's group.[X]
+A thief with a good heart.[N]
+Helps Lena and Marth's group.[N]
+Art by Atey[X]
 
 ## NavarreName  
 Navarre[X]
 ## NavarreDesc  
-A skilled swordsman with a quiet side.[N]  
-Fights for his own reasons and honor.[X]
+A skilled swordsman with a quiet side.[N]
+Fights for his own reasons and honor.[N]
+Art by BuskHusker[X]
 
 ## MatthisName  
 Matthis[X]
 ## MatthisDesc  
-Lena’s brother and a reluctant knight.[N]  
-Joins Marth's forces for Lena's sake.[X]
+Lena’s brother and a reluctant knight.[N]
+Joins Marth's forces for Lena's sake.[N]
+Art by Thorn[X]
 
 ## MerricName  
 Merric[X]
 ## MerricDesc  
-A mage and friend of Marth.[N]  
+A mage and friend of Marth.[N]
 Seeks to improve his magic skills.[X]
 
 ## HardinName  
 Hardin[X]
 ## HardinDesc  
-A noble knight of Aurelis.[N]  
-Supports Marth and fights fiercely.[X]
+A noble knight of Aurelis.[N]
+Supports Marth and fights fiercely.
+Art credited to "GFE1R"[X]
 
 ## WolfName  
 Wolf[X]
 ## WolfDesc  
-A loyal knight serving Hardin.[N]  
-Known for his skill and loyalty.[X]
+A loyal knight serving Hardin.[N]
+Known for his skill and loyalty.[N]
+Art by DerTheVaporeon, NickT[X]
 
 ## SedgarName  
 Sedgar[X]
 ## SedgarDesc  
-A knight of Aurelis and ally of Marth.[N]  
-Fights with loyalty to his kingdom.[X]
+A knight of Aurelis and ally of Marth.[N]
+Fights with loyalty to his kingdom.[N]
+Art by DerTheVaporeon[X]
 
 ## RosheaName  
 Roshea[X]
 ## RosheaDesc  
-A knight loyal to Aurelis and Marth.[N]  
-Supports Hardin's forces.[X]
+A knight loyal to Aurelis and Marth.[N]
+Supports Hardin's forces.[N]
+Art by Alusq, DerTheVaporeon[X]
 
 ## VylandName  
 Vyland[X]
 ## VylandDesc  
-A knight from Aurelis.[N]  
-Fights alongside Hardin and Marth.[X]
+A knight from Aurelis.[N]
+Fights alongside Hardin and Marth.[N]
+Art by Zmr, Peer, Blueey, NickT[X]
 
 ## WendellName  
 Wendell[X]
 ## WendellDesc  
-A wise bishop skilled in magic.[N]  
-Aids Marth with wisdom and spells.[X]
+A wise bishop skilled in magic.[N]
+Aids Marth with wisdom and spells.[N]
+Art by Thorn[X]
 
 ## RickardName  
 Rickard[X]
 ## RickardDesc  
-A cheerful thief with a mischievous side.[N]  
-Aids Marth’s group with thievery.[X]
+A cheerful thief with a mischievous side.[N]
+Aids Marth’s group with thievery.[N]
+Art by Thorn[X]
 
 ## BantuName  
 Bantu[X]
 ## BantuDesc  
-A dragon aiding Marth’s group.[N]  
-Uses his fire breath to protect allies.[X]
+A dragon aiding Marth’s group.[N]
+Uses his fire breath to protect allies.[N]
+Art by Thorn[X]
 
 ## CaesarName  
 Caesar[X]
 ## CaesarDesc  
-A mercenary who aids Marth.[N]  
-Skilled with a sword and loyal.[X]
+A mercenary who aids Marth.[N]
+Skilled with a sword and loyal.[N]
+Art by Thorn[X]
 
 ## RaddName  
 Radd[X]
 ## RaddDesc  
-A young mercenary aiding Marth.[N]  
-Fights to prove his skill and bravery.[X]
+A young mercenary aiding Marth.[N]
+Fights to prove his skill and bravery.[N]
+Art by Zorua[X]
 
 ## RogerName  
 Roger[X]
 ## RogerDesc  
-A knight charmed by Caeda.[N]  
-Joins Marth's army with loyalty.[X]
+A knight charmed by Caeda.[N]
+Joins Marth's army with loyalty.[N]
+Art by Thorn[X]
 
 ## JeorgeName  
 Jeorge[X]
 ## JeorgeDesc  
-A skilled archer with great aim.[N]  
-Loyal to Marth’s cause and skilled.[X]
+A skilled archer with great aim.[N]
+Loyal to Marth’s cause and skilled.[N]
+Art by Thorn[X]
 
 ## MariaName  
 Maria[X]
 ## MariaDesc  
-A kind princess skilled in healing.[N]  
-Fights for her kingdom and family.[X]
+A kind princess skilled in healing.[N]
+Fights for her kingdom and family.[N]
+Art by RedBean[X]
 
 ## MinervaName  
 Minerva[X]
 ## MinervaDesc  
-A strong wyvern knight of Macedon.[N]  
-Fights for justice and her loved ones.[X]
+A strong wyvern knight of Macedon.[N]
+Fights for justice and her loved ones.[N]
+Art by Wasdye[X]
 
 ## LindeName  
 Linde[X]
 ## LindeDesc  
-A mage with powerful magic.[N]  
-Aids Marth in memory of her father.[X]
+A mage with powerful magic.[N]
+Aids Marth in memory of her father.[N]
+Art by MK404[X]
 
 ## JakeName  
 Jake[X]
 ## JakeDesc  
-A ballistician aiding Marth's forces.[N]  
-Loyal and skilled with artillery.[X]
+A ballistician aiding Marth's forces.[N]
+Loyal and skilled with artillery.[N]
+Art by Kanna[X]
 
 ## BoahName  
 Boah[X]
 ## BoahDesc  
-A senior bishop and advisor.[N]  
+A senior bishop and advisor.[N]
 Supports Marth with magic and wisdom.[X]
 
 ## TomasName  
 Tomas[X]
 ## TomasDesc  
-An archer fighting for Marth.[N]  
-Brave and supportive in battle.[X]
+An archer fighting for Marth.[N]
+Brave and supportive in battle.[N]
+Art by Thorn[X]
 
 ## DolphName  
 Dolph[X]
 ## DolphDesc  
-A knight loyal to his kingdom.[N]  
+A knight loyal to his kingdom.[N]
 Fights to protect Altea and Marth.[X]
 
 ## MacellanName  
 Macellan[X]
 ## MacellanDesc  
-A knight who serves Altea.[N]  
+A knight who serves Altea.[N]
 Protects his allies with bravery.[X]
 
 ## MidiaName  
 Midia[X]
 ## MidiaDesc  
-A noble knight fighting for justice.[N]  
-Aids Marth’s cause with valor.[X]
+A noble knight fighting for justice.[N]
+Aids Marth’s cause with valor.[N]
+Art by Vilk[X]
 
 ## BeckName  
 Beck[X]
 ## BeckDesc  
-A ballistician joining Marth's army.[N]  
-Skilled with artillery and loyal.[X]
+A ballistician joining Marth's army.[N]
+Skilled with artillery and loyal.[N]
+Art by Wasdye[X]
 
 ## AstramName  
 Astram[X]
 ## AstramDesc  
-A fierce hero with a strong sense of duty.[N]  
-Joins Marth to protect his homeland.[X]
+A fierce hero with a strong sense of duty.[N]
+Joins Marth to protect his homeland.[N]
+Art by Wasdye[X]
 
 ## PallaName  
 Palla[X]
 ## PallaDesc  
-An experienced pegasus knight.[N]  
-Fights for Macedon and justice.[X]
+An experienced pegasus knight.[N]
+Fights for Macedon and justice.[N]
+Art by Obsidian_Daddy[X]
 
 ## CatriaName  
 Catria[X]
 ## CatriaDesc  
-A loyal pegasus knight of Macedon.[N]  
-Fights alongside her sisters.[X]
+A loyal pegasus knight of Macedon.[N]
+Fights alongside her sisters.[N]
+Art by Jey_the_Count[X]
 
 ## SamsonName  
 Samson[X]
 ## SamsonDesc  
-A skilled hero with strong loyalty.[N]  
-Aids Marth's cause for peace.[X]
+A skilled hero with strong loyalty.[N]
+Aids Marth's cause for peace.[N]
+Art by Thorn[X]
 
 ## ArranName  
 Arran[X]
 ## ArranDesc  
-A veteran knight aiding Marth.[N]  
-Loyal and protective in battle.[X]
+A veteran knight aiding Marth.[N]
+Loyal and protective in battle.[N]
+Art by NickT[X]
 
 ## XaneName  
 Xane[X]
 ## XaneDesc  
-A shapeshifter with a playful side.[N]  
-Supports Marth with unique abilities.[X]
+A shapeshifter with a playful side.[N]
+Supports Marth with unique abilities.[N]
+Art by ShadowFlygon[X]
 
 ## EstName  
 Est[X]
 ## EstDesc  
-The youngest of the pegasus sisters.[N]  
-Brave and skilled with a lance.[X]
+The youngest of the pegasus sisters.[N]
+Brave and skilled with a lance.[N]
+Art by Obsidian_Daddy[X]
 
 ## TikiName  
 Tiki[X]
 ## TikiDesc  
-A young dragon princess.[N]  
-Aids Marth with her powerful breath.[X]
+A young dragon princess.[N]
+Aids Marth with her powerful breath.[N]
+Art by BatimaTheBat[X]
 
 ## LorenzName  
 Lorenz[X]
 ## LorenzDesc  
-A seasoned general with wisdom.[N]  
-Protects his homeland and Marth.[X]
+A seasoned general with wisdom.[N]
+Protects his homeland and Marth.[N]
+Art by Sterling_Glovner[X]
 
 ## EliceName  
 Elice[X]
 ## EliceDesc  
-Marth's caring older sister.[N]  
-Aids him and supports his cause.[X]
+Marth's caring older sister.[N]
+Aids him and supports his cause.[N]
+Art by TAS20XX[X]
 
 ## GotohName  
 Gotoh[X]
 ## GotohDesc  
-A powerful sage with great wisdom.[N]  
-Guides Marth and aids his journey.[X]
+A powerful sage with great wisdom.[N]
+Guides Marth and aids his journey.[N]
+Art by Thorn[X]
 
 ## FreyName  
 Frey[X]
 ## FreyDesc  
-A loyal knight of Altea.[N]  
-Courageous and dedicated to Marth.[X]
+A loyal knight of Altea.[N]
+Courageous and dedicated to Marth.[N]
+Art by Thorn[X]
 
 ## NorneName  
 Norne[X]
 ## NorneDesc  
-A young archer from Altea.[N]  
-Joins Marth’s army with bravery.[X]
+A young archer from Altea.[N]
+Joins Marth’s army with bravery.[N]
+Art by MK404[X]
 
 ## AthenaName  
 Athena[X]
 ## AthenaDesc  
-A fierce swordswoman with skill.[N]  
-Speaks with a distinct accent.[X]
+A fierce swordswoman with skill.[N]
+Speaks with a distinct accent.[N]
+Art by Redbean[X]
 
 ## HoraceName  
 Horace[X]
 ## HoraceDesc  
-A knight of Macedon.[N]  
-Loyal to his land and allies.[X]
+A knight of Macedon.[N]
+Loyal to his land and allies.[N]
+Art by Thorn[X]
 
 ## EtzelName  
 Etzel[X]
 ## EtzelDesc  
-A sorcerer with a tragic past.[N]  
-Joins Marth for a second chance.[X]
+A sorcerer with a tragic past.[N]
+Joins Marth for a second chance.[N]
+Art by Thorn[X]
 
 ## YmirName  
 Ymir[X]
 ## YmirDesc  
-A strong man from the mountains.[N]  
-Fights to protect his people.[X]
+A strong man from the mountains.[N]
+Fights to protect his people.[N]
+Art by Thorn[X]
 
 ## NagiName  
 Nagi[X]
 ## NagiDesc  
-A mysterious dragon aiding Marth.[N]  
-Holds ancient power within.[X]
+A mysterious dragon aiding Marth.[N]
+Holds ancient power within.[N]
+Art by Thorn[X]
 
 
 
@@ -911,405 +964,469 @@ Determined to protect his friends.[X]
 Titania[X]
 ## TitaniaDesc
 A former knight of Crimea.[N]
-Mentors Ike and serves the Greil Mercs.[X]
+Mentors Ike and serves the Greil Mercs.[N]
+Art by NickT, Stitch[X]
 
 ## OscarName
 Oscar[X]
 ## OscarDesc
 A skilled lancer from the Greil Mercs.[N]
-Values loyalty and protects his brother.[X]
+Values loyalty and protects his brother.[N]
+Art by NickT, Stitch[X]
 
 ## BoydName
 Boyd[X]
 ## BoydDesc
 A strong mercenary from the Greil Mercs.[N]
-Loyal and cares deeply for comrades.[X]
+Loyal and cares deeply for comrades.[N]
+Art by NickT, Stitch[X]
 
 ## RhysName
 Rhys[X]
 ## RhysDesc
 A kind healer from the Greil Mercs.[N]
-Dedicated to supporting friends.[X]
+Dedicated to supporting friends.[N]
+Art by NickT, Stitch[X]
 
 ## ShinonName
 Shinon[X]
 ## ShinonDesc
 A skilled archer in the Greil Mercs.[N]
-Gruff but values his comrades.[X]
+Gruff but values his comrades.[N]
+Art by NickT, Stitch[X]
 
 ## GatrieName
 Gatrie[X]
 ## GatrieDesc
 A cheerful knight with a friendly smile.[N]
-Committed to protecting his friends.[X]
+Committed to protecting his friends.[N]
+Art by Quotedotlass, Electric_Serge[X]
 
 ## SorenName
 Soren[X]
 ## SorenDesc
 Tactician for the Greil Mercs.[N]
-Serious and values intelligence.[X]
+Serious and values intelligence.[N]
+Art by Quotedotlass, Electric_Serge[X]
 
 ## MiaName
 Mia[X]
 ## MiaDesc
 Cheerful and energetic swordswoman.[N]
-Loves to challenge strong foes.[X]
+Loves to challenge strong foes.[N]
+Art by Quotedotlass, Electric_Serge[X]
 
 ## IlyanaName
 Ilyana[X]
 ## IlyanaDesc
 A mage with a love for food.[N]
-Kind-hearted and supports her friends.[X]
+Kind-hearted and supports her friends.[N]
+Art by NickT, Stitch[X]
 
 ## MarciaName
 Marcia[X]
 ## MarciaDesc
 A spirited pegasus knight from Crimea.[N]
-Determined to prove her skills.[X]
+Determined to prove her skills.[N]
+Art by Quotedotlass[X]
 
 ## MistName
 Mist[X]
 ## MistDesc
 A healer and Ike's younger sister.[N]
-Caring and supports friends in fights.[X]
+Caring and supports friends in fights.[N]
+Art by Quotedotlass, Electric_Serge[X]
 
 ## RolfName
 Rolf[X]
 ## RolfDesc
 Young archer and son of a mercenary.[N]
-Eager to prove himself and grow.[X]
+Eager to prove himself and grow.[N]
+Art by Rolf[X]
 
 ## LetheName
 Lethe[X]
 ## LetheDesc
 A laguz warrior from Gallia.[N]
-Fierce and protective of her land.[X]
+Fierce and protective of her land.[N]
+Art by NickT, Stitch[X]
 
 ## MordecaiName
 Mordecai[X]
 ## MordecaiDesc
 A laguz warrior who can transform.[N]
-Loyal and protects his allies.[X]
+Loyal and protects his allies.[N]
+Art by NickT, Stitch[X]
 
 ## VolkeName
 Volke[X]
 ## VolkeDesc
 Skilled thief and information gatherer.[N]
-Mysterious and values independence.[X]
+Mysterious and values independence.[N]
+Art by NickT, Stitch[X]
 
 
 ## KieranName
 Kieran[X]
 ## KieranDesc
 A cheerful and bold knight of Crimea.[N]
-Loves to charge into battle.[X]
+Loves to charge into battle.[N]
+Art by NickT, Stitch[X]
 
 ## BromName
 Brom[X]
 ## BromDesc
 A gentle knight with strong values.[N]
-Protects friends with loyalty.[X]
+Protects friends with loyalty.[N]
+Art by NickT, Stitch[X]
 
 ## NepheneeName
 Nephenee[X]
 ## NepheneeDesc
 A lance-wielding soldier from Crimea.[N]
-Determined to defend her homeland.[X]
+Determined to defend her homeland.[N]
+Art by NickT, Stitch[X]
 
 ## ZiharkName
 Zihark[X]
 ## ZiharkDesc
 A noble swordsman with honor.[N]
-Fights for justice and the weak.[X]
+Fights for justice and the weak.[N]
+Art by NickT, Stitch[X]
 
 ## JillName
 Jill[X]
 ## JillDesc
 A wyvern knight from Daein.[N]
-Struggles with loyalty in battle.[X]
+Struggles with loyalty in battle.[N]
+Art by NickT, Stitch[X]
 
 ## SotheName
 Sothe[X]
 ## SotheDesc
 Skilled thief and loyal to Micaiah.[N]
-Values friendship and protects others.[X]
+Values friendship and protects others.[N]
+Art by NickT, Stitch[X]
 
 ## AstridName
 Astrid[X]
 ## AstridDesc
 A noblewoman who becomes a mercenary.[N]
-Strives to prove herself in battle.[X]
+Strives to prove herself in battle.[N]
+Art by NickT, Stitch[X]
 
 ## MakalovName
 Makalov[X]
 ## MakalovDesc
 A carefree, laid-back mercenary.[N]
-Often seeks the easy way but fights.[X]
+Often seeks the easy way but fights.[N]
+Art by NickT, Stitch[X]
 
 ## StefanName
 Stefan[X]
 ## StefanDesc
 A mysterious swordsman of great skill.[N]
-Wanders and appears in times of need.[X]
+Wanders and appears in times of need.[N]
+Art by Quotedotlass, Mattiator[X]
 
 ## MuarimName
 Muarim[X]
 ## MuarimDesc
 A calm laguz warrior.[N]
-Fights fiercely to protect friends.[X]
+Fights fiercely to protect friends.[N]
+Art by NickT, Stitch[X]
 
 ## TormodName
 Tormod[X]
 ## TormodDesc
 Young mage with a strong sense of justice.[N]
-Seeks to help those in need.[X]
+Seeks to help those in need.[N]
+Art by NickT, Stitch[X]
 
 ## DevdanName
 Devdan[X]
 ## DevdanDesc
 A knight with a jovial personality.[N]
-Fights with a strong sense of duty.[X]
+Fights with a strong sense of duty.[N]
+Art by NickT, Stitch[X]
 
 ## TanithName
 Tanith[X]
 ## TanithDesc
 Skilled pegasus knt. and guard leader.[N]
-Dedicated to protecting her kingdom.[X]
+Dedicated to protecting her kingdom.[N]
+Art by NickT, Ghostblade[X]
 
 ## ReysonName
 Reyson[X]
 ## ReysonDesc
 A songstress of the Heron tribe.[N]
-Possesses powerful abilities to aid others.[X]
+Possesses powerful abilities to aid others.[N]
+Art by NickT, Stitch[X]
 
 ## JanaffName
 Janaff[X]
 ## JanaffDesc
 A laguz warrior known for speed.[N]
-Loyal to friends and his homeland.[X]
+Loyal to friends and his homeland.[N]
+Art by NickT, Stitch[X]
 
 ## UlkiName
 Ulki[X]
 ## UlkiDesc
 A carefree laguz warrior.[N]
-Enjoys life and fights for allies.[X]
+Enjoys life and fights for allies.[N]
+Art by NickT, Stitch[X]
 
 ## CalillName
 Calill[X]
 ## CalillDesc
 A skilled mage with strong will.[N]
-Supports friends with her magic.[X]
+Supports friends with her magic.[N]
+Art by NickT, Stitch[X]
 
 ## TauroneoName
 Tauroneo[X]
 ## TauroneoDesc
 A noble knight known for his loyalty.[N]
-Fights to protect those in need.[X]
+Fights to protect those in need.[N]
+Art by NickT, Stitch[X]
 
 ## RanulfName
 Ranulf[X]
 ## RanulfDesc
 Forest guardian and laguz warrior.[N]
-Strong-willed and fiercely loyal.[X]
+Strong-willed and fiercely loyal.[N]
+Art by NickT, Stitch[X]
 
 ## HaarName
 Haar[X]
 ## HaarDesc
 Laid-back, powerful wyvern rider.[N]
-Fights for friends but avoids trouble.[X]
+Fights for friends but avoids trouble.[N]
+Art by NickT, Stitch[X]
 
 ## LuciaName
 Lucia[X]
 ## LuciaDesc
 A skilled swordfighter and loyal knight.[N]
-Serves to protect her kingdom.[X]
+Serves to protect her kingdom.[N]
+Art by Quotedotlass, Electric_Serge[X]
 
 ## BastianName
 Bastian[X]
 ## BastianDesc
 Clever Crimean noble and strategist.[N]
-Supports allies with intellect.[X]
+Supports allies with intellect.[N]
+Art by NickT, Stitch[X]
 
 ## GeoffreyName
 Geoffrey[X]
 ## GeoffreyDesc
 Commander of the knights of Crimea.[N]
-Dedicated to protecting his kingdom.[X]
+Dedicated to protecting his kingdom.[N]
+Art by NickT, Stitch[X]
 
 ## LargoName
 Largo[X]
 ## LargoDesc
 A carefree and skilled warrior.[N]
-Values freedom and enjoys battle.[X]
+Values freedom and enjoys battle.[N]
+Art by NickT, Stitch[X]
 
 ## ElinciaName
 Elincia[X]
 ## ElinciaDesc
 Princess of Crimea with strong ideals.[N]
-Fights to restore her kingdom.[X]
+Fights to restore her kingdom.[N]
+Art by NickT, Stitch[X]
 
 ## EnaName
 Ena[X]
 ## EnaDesc
 A dragon noble with a calm demeanor.[N]
-Fights to protect her tribe.[X]
+Fights to protect her tribe.[N]
+Art by NickT, Stitch[X]
 
 ## NasirName
 Nasir[X]
 ## NasirDesc
 A wise dragon who aids the laguz.[N]
-Values peace and protects the world.[X]
+Values peace and protects the world.[N]
+Art by NickT, Stitch[X]
 
 ## TibarnName
 Tibarn[X]
 ## TibarnDesc
 The king of the hawk laguz.[N]
-Fights for freedom and justice.[X]
+Fights for freedom and justice.[N]
+Art by NickT, Stitch[X]
 
 ## NaesalaName
 Naesala[X]
 ## NaesalaDesc
 King of the raven laguz, known for cunning.[N]
-Plays both sides for his people.[X]
+Plays both sides for his people.[N]
+Art by NickT, Stitch[X]
 
 ## GiffcaName
 Giffca[X]
 ## GiffcaDesc
 A noble laguz warrior known for strength.[N]
-Fights to protect allies and land.[X]
+Fights to protect allies and land.[N]
+Art by NickT, Stitch[X]
 
 
 ## MicaiahName  
 Micaiah[X]
 ## MicaiahDesc  
-Leader of the Dawn Brigade and a seer.[N]  
-Seeks to protect her people and end pain.[X]
+Leader of the Dawn Brigade and a seer.[N]
+Seeks to protect her people and end pain.[N]
+Art by NickT, Stitch[X]
 
 ## EdwardName  
 Edward[X]
 ## EdwardDesc  
-A young swordsman from the Dawn Brigade.[N]  
-Determined to prove his strength in battle.[X]
+A young swordsman from the Dawn Brigade.[N]
+Determined to prove his strength in battle.[N]
+Art by NickT, Stitch[X]
 
 ## LeonardoName  
 Leonardo[X]
 ## LeonardoDesc  
-An archer from the Dawn Brigade, calm.[N]  
-Fights for his friends and their future.[X]
+An archer from the Dawn Brigade, calm.[N]
+Fights for his friends and their future.[N]
+Art by NickT, Stitch[X]
 
 ## NolanName  
 Nolan[X]
 ## NolanDesc  
-A wise warrior with a strong sense of duty.[N]  
-Protects his allies with loyalty and strength.[X]
+A wise warrior with a strong sense of duty.[N]
+Protects his allies with loyalty and strength.[N]
+Art by NickT, Stitch[X]
 
 ## LauraName  
 Laura[X]
 ## LauraDesc  
-A kind healer dedicated to her friends.[N]  
-Helps those in need on the battlefield.[X]
+A kind healer dedicated to her friends.[N]
+Helps those in need on the battlefield.[N]
+Art by NickT, Stitch[X]
 
 ## AranName  
 Aran[X]
 ## AranDesc  
-A steadfast knight known for his will.[N]  
-He fights for justice and to protect others.[X]
+A steadfast knight known for his will.[N]
+He fights for justice and to protect others.[N]
+Art by NickT, Stitch[X]
 
 ## FionaName  
 Fiona[X]
 ## FionaDesc  
-A noble knight with a strong sense of duty.[N]  
-Fights to protect her homeland and kin.[X]
+A noble knight with a strong sense of duty.[N]
+Fights to protect her homeland and kin.[N]
+Art by NickT, Stitch[X]
 
 ## PelleasName  
 Pelleas[X]
 ## PelleasDesc  
-The prince of Daein, seeking his land.[N]  
+The prince of Daein, seeking his land.[N]
 Strives to unite his people and restore peace.[X]
 
 ## JarodName  
 Jarod[X]
 ## JarodDesc  
-A cruel general of the Daein army.[N]  
-Ruthless and seeks power above all else.[X]
+A cruel general of the Daein army.[N]
+Ruthless and seeks power above all else.[N]
+Art by Quotedotlass, Electric_Serge[X]
 
 ## IzukaName  
 Izuka[X]
 ## IzukaDesc  
-A cunning and manipulative mage.[N]  
+A cunning and manipulative mage.[N]
 Conducts experiments for personal gain.[X]
 
 ## HeatherName  
 Heather[X]
 ## HeatherDesc  
-A skilled thief with a cheeky attitude.[N]  
-Seeks treasure and values her freedom.[X]
+A skilled thief with a cheeky attitude.[N]
+Seeks treasure and values her freedom.[N]
+Art by Alex_the_Retrogamer[X]
 
 ## LeanneName  
 Leanne[X]
 ## LeanneDesc  
-A songstress of the Heron tribe, kind.[N]  
-Aids her friends with her abilities.[X]
+A songstress of the Heron tribe, kind.[N]
+Aids her friends with her abilities.[N]
+Art by Quotedotlass, Electric_Serge[X]
 
 ## VikaName  
 Vika[X]
 ## VikaDesc  
-A laguz raven who values freedom.[N]  
-Protects her friends at all costs.[X]
+A laguz raven who values freedom.[N]
+Protects her friends at all costs.[N]
+Art by Quotedotlass, Ghostblade[X]
 
 ## NailahName  
 Nailah[X]
 ## NailahDesc  
-Queen of the wolf laguz, fierce and proud.[N]  
-Fights to protect her people and kin.[X]
+Queen of the wolf laguz, fierce and proud.[N]
+Fights to protect her people and kin.[N]
+Art by NickT, Stitch[X]
 
 ## RafielName  
 Rafiel[X]
 ## RafielDesc  
-A gentle songstress of the Heron tribe.[N]  
-Aids allies with healing abilities.[X]
+A gentle songstress of the Heron tribe.[N]
+Aids allies with healing abilities.[N]
+Art by NickT, Stitch[X]
 
 ## KyzaName  
 Kyza[X]
 ## KyzaDesc  
-A laguz tiger with a strong sense of honor.[N]  
+A laguz tiger with a strong sense of honor.[N]
 Fights for justice and to protect others.[X]
 
 ## LyreName  
 Lyre[X]
 ## LyreDesc  
-A spirited laguz cat who values friends.[N]  
-Fights for her allies with determination.[X]
+A spirited laguz cat who values friends.[N]
+Fights for her allies with determination.[N]
+Art by Quotedotlass[X]
 
 ## CaineghisName  
 Caineghis[X]
 ## CaineghisDesc  
-King of the beast laguz, wise and strong.[N]  
-Fights to protect his people and kin.[X]
+King of the beast laguz, wise and strong.[N]
+Fights to protect his people and kin.[N]
+Art by NickT, Stitch[X]
 
 ## KurthnagaName  
 Kurthnaga[X]
 ## KurthnagaDesc  
-Gentle dragon prince, calm and thoughtful.[N]  
-Seeks peace between laguz and beorc.[X]
+Gentle dragon prince, calm and thoughtful.[N]
+Seeks peace between laguz and beorc.[N]
+Art by NickT, Stitch[X]
 
 ## GarethName  
 Gareth[X]
 ## GarethDesc  
-A wise and strong laguz bear, noble.[N]  
-Protects his allies and fights for justice.[X]
+A wise and strong laguz bear, noble.[N]
+Protects his allies and fights for justice.[N]
+Art by NickT, Stitch[X]
 
 ## MegName  
 Meg[X]
 ## MegDesc  
-A cheerful and kind-hearted soldier.[N]  
-Fights for friends and dreams of glory.[X]
+A cheerful and kind-hearted soldier.[N]
+Fights for friends and dreams of glory.[N]
+Art by NickT, Stitch[X]
 
 ## VolugName  
 Volug[X]
 ## VolugDesc  
-A laguz wolf, quiet but fiercely loyal.[N]  
-Protects Micaiah and his allies.[X]
+A laguz wolf, quiet but fiercely loyal.[N]
+Protects Micaiah and his allies.[N]
+Art by NickT, Stitch[X]
 
 
 

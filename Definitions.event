@@ -86,28 +86,29 @@
 //#if IsSymbolDefined(RoyLord); #else; MESSAGE 2; #endif 
 // #define RoyLord Mercenary
 
+#define KyzaMug BlankMug 
 
+// #define AbelMug 1 
 #define MerricMug BlankMug 
-#define MatthisMug BlankMug 
-#define WendellMug BlankMug 
-#define RickardMug BlankMug 
-#define BantuMug BlankMug 
-#define CaesarMug BlankMug 
-#define RogerMug BlankMug 
-#define JeorgeMug BlankMug 
-// #define JakeMug BlankMug 
+// #define MatthisMug BlankMug 
+// #define WendellMug BlankMug 
+// #define RickardMug BlankMug 
+// #define BantuMug BlankMug 
+// #define CaesarMug BlankMug 
+// #define RogerMug BlankMug 
+// #define JeorgeMug BlankMug 
 #define BoahMug BlankMug 
-#define TomasMug BlankMug 
+// #define TomasMug BlankMug 
 #define DolphMug BlankMug 
 #define MacellanMug BlankMug 
-#define SamsonMug BlankMug 
-#define GotohMug BlankMug 
-#define FreyMug BlankMug 
-#define HoraceMug BlankMug 
-#define EtzelMug BlankMug 
-#define YmirMug BlankMug 
-#define NagiMug BlankMug 
-
+// #define SamsonMug BlankMug 
+// #define GotohMug BlankMug 
+// #define FreyMug BlankMug 
+// #define HoraceMug BlankMug 
+// #define EtzelMug BlankMug 
+// #define YmirMug BlankMug 
+// #define NagiMug BlankMug 
+// #define JakeMug BlankMug 
 
 
 // #define FireAffinity 1
