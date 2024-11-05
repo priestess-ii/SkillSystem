@@ -426,14 +426,14 @@ Noish[X]
 ## NoishDesc  
 A loyal knight of Chalphy.[N]
 Known for his steadfast dedication.[N]
-Art by [X]
+Art by Atey[X]
 
 ## AlecName  
 Alec[X]
 ## AlecDesc  
 A cheerful knight from Chalphy.[N]
 Quick to aid friends in need.[N]
-Art by [X]
+Art by Atey[X]
 
 ## ArdenName  
 Arden[X]
@@ -447,42 +447,42 @@ Cuan[X]
 ## CuanDesc  
 The prince of Lenster.[N]
 Defender of his homeland and allies.[N]
-Art by [X]
+Art by Atey, Melia, Renoud[X]
 
 ## EthlinName  
 Ethlin[X]
 ## EthlinDesc  
 A noblewoman and healer.[N]
 Supports her family with grace.[N]
-Art by [X]
+Art by WAve[X]
 
 ## FinName  
 Fin[X]
 ## FinDesc  
 A devoted knight of Lenster.[N]
 Unwavering loyalty to his lords.[N]
-Art by [X]
+Art by Melia[X]
 
 ## LexName  
 Lex[X]
 ## LexDesc  
 A noble axefighter with a fierce spirit.[N]
 Values strength and freedom.[N]
-Art by [X]
+Art by Sterling Glovner[X]
 
 ## AzelName  
 Azel[X]
 ## AzelDesc  
 A mage with a kind heart.[N]
 Seeks to use magic for good.[N]
-Art by [X]
+Art by WAve[X]
 
 ## MidayleName  
 Midayle[X]
 ## MidayleDesc  
 A gentle archer from Jungby.[N]
 Devoted to protecting those he loves.[N]
-Art by [X]
+Art by Zoisite[X]
 
 ## AdeanName  
 Adean[X]
@@ -517,7 +517,7 @@ Jamka[X]
 ## JamkaDesc  
 A prince and archer from Verdane.[N]
 Guided by a strong sense of justice.[N]
-Art by [X]
+Art by Nobody[X]
 
 ## HolynName  
 Holyn[X]
@@ -531,56 +531,56 @@ Lachesis[X]
 ## LachesisDesc  
 A princess and brave knight.[N]
 Protects those she loves dearly.[N]
-Art by [X]
+Art by Obsidian_Daddy[X]
 
 ## LevinName  
 Levin[X]
 ## LevinDesc  
 A bard with mysterious powers.[N]
 Guided by a hidden purpose.[N]
-Art by [X]
+Art by Atey[X]
 
 ## SylviaName  
 Sylvia[X]
 ## SylviaDesc  
 A lively dancer.[N]
 Supports her allies with grace.[N]
-Art by [X]
+Art by TAS20xx[X]
 
 ## FuryName  
 Fury[X]
 ## FuryDesc  
 A pegasus knight from Silesse.[N]
 Courageous and loyal to her friends.[N]
-Art by [X]
+Art by Sterling Glovner[X]
 
 ## BeowolfName  
 Beowolf[X]
 ## BeowolfDesc  
 A brave mercenary knight.[N]
 Fights for his own ideals.[N]
-Art by [X]
+Art by Eden[X]
 
 ## BriggidName  
 Briggid[X]
 ## BriggidDesc  
 A skilled archer with a fiery spirit.[N]
 Protects those she holds dear.[N]
-Art by [X]
+Art by Redbean[X]
 
 ## ClaudeName  
 Claude[X]
 ## ClaudeDesc  
 A noble priest of Edda.[N]
 Seeks wisdom and guidance for all.[N]
-Art by [X]
+Art by Atey[X]
 
 ## TiltyuName  
 Tiltyu[X]
 ## TiltyuDesc  
 A kind mage with a strong will.[N]
 Wields thunder magic for justice.[N]
-Art by [X]
+Art by Atey[X]
 
 ## ManaName  
 Mana[X]
@@ -608,7 +608,7 @@ Oifey[X]
 ## OifeyDesc  
 A seasoned knight and strategist.[N]
 Guides allies with wisdom.[N]
-Art by [X]
+Art by Melia[X]
 
 ## TristanName  
 Tristan[X]
@@ -631,12 +631,12 @@ A young mage with mystical powers.[N]
 Holds a deep sense of compassion.[N]
 Art by [X]
 
-## FeminaName  
-Femina[X]
-## FeminaDesc  
+## FeeName  
+Fee[X]
+## FeeDesc  
 A pegasus knight of gentle spirit.[N]
 Protects her allies from the skies.[N]
-Art by [X]
+Art by Melia[X]
 
 ## AmidName  
 Amid[X]
@@ -685,7 +685,7 @@ Aless[X]
 ## AlessDesc  
 A noble knight with a strong heart.[N]
 Fights to honor his family.[N]
-Art by [X]
+Art by Melia[X]
 
 ## LayleaName  
 Laylea[X]
@@ -699,7 +699,7 @@ Linda[X]
 ## LindaDesc  
 A mage with a caring nature.[N]
 Uses her powers to protect others.[N]
-Art by [X]
+Art by Gator[X]
 
 ## AsaelloName  
 Asaello[X]
@@ -713,14 +713,14 @@ Hawk[X]
 ## HawkDesc  
 A skilled sage with a calm demeanor.[N]
 Uses magic to aid his friends.[N]
-Art by [X]
+Art by Sterling Glovner[X]
 
 ## HannibalName  
 Hannibal[X]
 ## HannibalDesc  
 A general of Thracia with strength.[N]
 Protects his homeland with pride.[N]
-Art by [X]
+Art by Melia[X]
 
 ## SharlowName  
 Sharlow[X]
@@ -738,70 +738,70 @@ Leif[X]
 ## LeifDesc  
 A determined young prince of Leonster.[N]
 Fights to reclaim his homeland.[N]
-Art by [X]
+Art by Melia[X]
 
 ## FinnName  
 Finn[X]
 ## FinnDesc  
 A loyal knight and protector of Leif.[N]
 Skilled in combat and steadfast.[N]
-Art by [X]
+Art by Melia[X]
 
 ## EyvelName  
 Eyvel[X]
 ## EyvelDesc  
 A strong warrior and leader of the resistance.[N]
 Fierce in battle and protective of allies.[N]
-Art by [X]
+Art by Melia[X]
 
 ## HalvanName  
 Halvan[X]
 ## HalvanDesc  
 A brave warrior from the Gae Bolg.[N]
 Fights with a strong sense of duty.[N]
-Art by [X]
+Art by Sterling Glovner[X]
 
 ## OsianName  
 Osian[X]
 ## OsianDesc  
 A young warrior with a fierce spirit.[N]
 Seeks to prove himself on the battlefield.[N]
-Art by [X]
+Art by Sterling Glovner[X]
 
 ## DagdarName  
 Dagdar[X]
 ## DagdarDesc  
 A tough mercenary with a heart of gold.[N]
 Values friendship and loyalty above all.[N]
-Art by [X]
+Art by CanDy[X]
 
 ## TanyaName  
 Tanya[X]
 ## TanyaDesc  
 A spirited archer with a sharp aim.[N]
 Fights to protect those she loves.[N]
-Art by [X]
+Art by Wasdye[X]
 
 ## MartyName  
 Marty[X]
 ## MartyDesc  
 A gentle giant with incredible strength.[N]
 Protective of his friends and allies.[N]
-Art by [X]
+Art by Vilkalizer[X]
 
 ## RonanName  
 Ronan[X]
 ## RonanDesc  
 An archer with a strong sense of justice.[N]
 He fights to defend the weak.[N]
-Art by [X]
+Art by Miguel Rojo[X]
 
 ## LifisName  
 Lifis[X]
 ## LifisDesc  
 A cunning thief skilled in stealth.[N]
 Uses his abilities to support his friends.[N]
-Art by [X]
+Art by Melia[X]
 
 ## SafyName  
 Safy[X]
@@ -815,7 +815,7 @@ Brighton[X]
 ## BrightonDesc  
 A dependable warrior with a strong will.[N]
 Fights for justice and his friends.[N]
-Art by [X]
+Art by Sterling Glovner[X]
 
 ## MachyuaName  
 Machyua[X]
@@ -836,21 +836,21 @@ Fergus[X]
 ## FergusDesc  
 A charismatic knight with strong ideals.[N]
 Fights for freedom and justice.[N]
-Art by [X]
+Art by CranJam[X]
 
 ## KarinName  
 Karin[X]
 ## KarinDesc  
 A swift and skilled pegasus knight.[N]
 Uses her speed to outmaneuver foes.[N]
-Art by [X]
+Art by Melia[X]
 
 ## DalsinName  
 Dalsin[X]
 ## DalsinDesc  
 A sturdy warrior with a strong defense.[N]
 Stands firm against any enemy.[N]
-Art by [X]
+Art by Melia[X]
 
 ## AsbelName  
 Asbel[X]
@@ -864,7 +864,7 @@ Nanna[X]
 ## NannaDesc  
 A devoted healer and Leif's companion.[N]
 Cares deeply for her friends' well-being.[N]
-Art by [X]
+Art by Zelkami[X]
 
 ## HicksName  
 Hicks[X]
@@ -878,21 +878,21 @@ Shiva[X]
 ## ShivaDesc  
 A skilled swordmaster with grace.[N]
 Seeks to perfect his swordsmanship.[N]
-Art by [X]
+Art by Atey, Renoud[X]
 
 ## CarrionName  
 Carrion[X]
 ## CarrionDesc  
 A fierce warrior known for his resolve.[N]
 Protects his allies with determination.[N]
-Art by [X]
+Art by Ganondorf[X]
 
 ## SelphinaName  
 Selphina[X]
 ## SelphinaDesc  
 A noblewoman with a strong will.[N]
 Fights to uphold justice in her land.[N]
-Art by [X]
+Art by Melia[X]
 
 ## Cain2Name  
 Cain[X]
@@ -920,21 +920,21 @@ Fred[X]
 ## FredDesc  
 A steadfast knight known for his strength.[N]
 Stands guard for his friends and allies.[N]
-Art by [X]
+Art by Melia[X]
 
 ## OlwenName  
 Olwen[X]
 ## OlwenDesc  
 A swift and graceful mage knight.[N]
 Uses her magic to support her friends.[N]
-Art by [X]
+Art by Garytop[X]
 
 ## MareetaName  
 Mareeta[X]
 ## MareetaDesc  
 A fierce warrior seeking her own path.[N]
 Determined and skilled in combat.[N]
-Art by [X]
+Art by CavalryUnits[X]
 
 ## SalemName  
 Salem[X]
@@ -948,7 +948,7 @@ Perne[X]
 ## PerneDesc  
 A cunning thief known for his agility.[N]
 Supports his allies with stealth and skill.[N]
-Art by [X]
+Art by Sterling_Glovner[X]
 
 ## TinaName  
 Tina[X]
@@ -962,7 +962,7 @@ Troude[X]
 ## TroudeDesc  
 A skilled warrior with a strong presence.[N]
 Fights bravely for his comrades' safety.[N]
-Art by [X]
+Art by Sterling_Glovner[X]
 
 ## GladeName  
 Glade[X]
@@ -976,28 +976,28 @@ Deen[X]
 ## DeenDesc  
 A mysterious warrior with great skill.[N]
 Fights to uncover the truth.[N]
-Art by [X]
+Art by Atey[X]
 
 ## EdaName  
 Eda[X]
 ## EdaDesc  
 A kind-hearted woman with healing magic.[N]
 Uses her skills to aid the wounded.[N]
-Art by [X]
+Art by Atey[X]
 
 ## HomerName  
 Homer[X]
 ## HomerDesc  
 A brave warrior with a strong heart.[N]
 Fights for his friends and family.[N]
-Art by [X]
+Art by Wasdye[X]
 
 ## LinoanName  
 Linoan[X]
 ## LinoanDesc  
 A noblewoman with a strong spirit.[N]
 Supports her allies in battle.[N]
-Art by [X]
+Art by Linoan[X]
 
 ## RaifName  
 Raif[X]
@@ -1039,7 +1039,7 @@ Shannam[X]
 ## ShannamDesc  
 A mysterious rogue with unknown motives.[N]
 Skilled in stealth and combat.[N]
-Art by [X]
+Art by Melia[X]
 
 ## MirandaName  
 Miranda[X]
@@ -1060,7 +1060,7 @@ Amalda[X]
 ## AmaldaDesc  
 A compassionate healer with a gentle soul.[N]
 Cares deeply for her friends and allies.[N]
-Art by [X]
+Art by Sterling_Glovner[X]
 
 ## ConomorName  
 Conomor[X]
@@ -1074,28 +1074,28 @@ Diarmuid[X]
 ## DiarmuidDesc  
 A noble knight with a strong sense of justice.[N]
 Stands for honor and duty in battle.[N]
-Art by [X]
+Art by Melia[X]
 
 ## SalasName  
 Salas[X]
 ## SalasDesc  
 A brave fighter with a strong heart.[N]
 Protects his friends with valor.[N]
-Art by [X]
+Art by Atey, Arcth[X]
 
 ## CedName  
 Ced[X]
 ## CedDesc  
 A skilled mage with a sharp intellect.[N]
 Uses magic to protect his allies.[N]
-Art by [X]
+Art by Melia[X]
 
 ## GalzusName  
 Galzus[X]
 ## GalzusDesc  
 A legendary warrior with unmatched skill.[N]
 Fights to defend his land and people.[N]
-Art by [X]
+Art by Stitch[X]
 
 
 
