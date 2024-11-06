@@ -89,11 +89,12 @@
 
 #define KyzaMug BlankMug 
 
+
+#define CuanMug BlankMug 
 #define ArdenMug BlankMug 
 #define AdeanMug BlankMug 
 #define DewMug BlankMug 
 #define DiadoraMug BlankMug 
-#define HolynMug BlankMug 
 #define NoishMug BlankMug 
 #define IraMug BlankMug 
 #define ManaMug BlankMug 
@@ -119,7 +120,7 @@
 #define SalemMug BlankMug 
 #define TinaMug BlankMug 
 #define GladeMug BlankMug 
-#define RaifMug BlankMug 
+#define RalphMug BlankMug 
 #define IliosMug BlankMug 
 #define SleufMug BlankMug 
 #define SaraMug BlankMug 
@@ -204,6 +205,15 @@
 #define Hawk Hero
 #define Raven Swordmaster
 #define Lion General 
+
+
+#define Tactician Mage 
+#define Taguel Mercenary 
+#define Merchant Cavalier 
+#define DarkMage Shaman 
+#define Trickster Assassin 
+#define Conqueror General 
+#define DarkFlier WyvernLord  
 
 
 
