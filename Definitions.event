@@ -85,7 +85,7 @@
 // "undefined-coalescing" operator '??' ('L ?? R' evaluates to L if L does not contain undefined symbols, R otherwise)
 //#if IsSymbolDefined(RoyLord); #else; MESSAGE 2; #endif 
 // #define RoyLord Mercenary
-// #define BlankMug 0
+#define BlankMug 0
 
 #define KyzaMug BlankMug 
 
@@ -134,8 +134,39 @@
 #define LaraMug BlankMug 
 // #define Mug BlankMug 
 
-
-
+// fe14 
+#define GunterMug BlankMug 
+#define KazeMug BlankMug 
+#define SaizoMug BlankMug 
+#define OrochiMug BlankMug 
+#define AzamaMug BlankMug 
+#define SetsunaMug BlankMug 
+#define HayatoMug BlankMug 
+#define ReinaMug BlankMug 
+#define KadenMug BlankMug 
+#define ShuraMug BlankMug 
+#define NilesMug BlankMug 
+#define SelenaMug BlankMug 
+#define BerukaMug BlankMug 
+#define CharlotteMug BlankMug 
+#define KeatonMug BlankMug 
+#define IzanaMug BlankMug 
+#define FugaMug BlankMug 
+#define YukimuraMug BlankMug 
+#define FloraMug BlankMug 
+#define KanaMMug BlankMug 
+#define DwyerMug BlankMug 
+#define ShiroMug BlankMug 
+#define AsugiMug BlankMug 
+#define HisameMug BlankMug 
+#define CaeldoriMug BlankMug 
+#define RhajatMug BlankMug 
+#define SiegbertMug BlankMug 
+#define ForrestMug BlankMug 
+#define VelouriaMug BlankMug 
+#define PercyMug BlankMug 
+#define OpheliaMug BlankMug 
+#define OdinMug BlankMug 
 
 // #define FireAffinity 1
 // #define ThunderAffinity 2
@@ -152,7 +183,17 @@
 #define HeavenAffinity 6 //LightAffinity
 #define LightningAffinity 2 // ThunderAffinity
 
+// fe1 
+#define MarthLord Mercenary 
+#define Hunter Thief 
+#define Horseman Cavalier 
+#define Mamkute Manakete_2_F 
+#define Ballistician Archer 
+#define Freelancer EphraimLord 
+#define Sorcerer Sage 
 
+
+// fe4/5 
 #define Lord Mercenary 
 #define LordKnight Mercenary 
 #define SocialKnight Cavalier 
@@ -179,14 +220,8 @@
 
 
 
-#define MarthLord Mercenary 
-#define Hunter Thief 
-#define Horseman Cavalier 
-#define Mamkute Manakete_2_F 
-#define Ballistician Archer 
-#define Freelancer EphraimLord 
-#define Sorcerer Sage 
 
+// fe10 
 #define IkeLord Mercenary 
 
 #define LanceKnight Cavalier 
@@ -206,7 +241,7 @@
 #define Raven Swordmaster
 #define Lion General 
 
-
+// fe13 
 #define Tactician Mage 
 #define Taguel Mercenary 
 #define Merchant Cavalier 
@@ -215,6 +250,24 @@
 #define Conqueror General 
 #define DarkFlier WyvernLord  
 
+
+// fe14 
+
+#define Maid Cleric 
+#define Butler Priest
+#define OniSavage Fighter 
+#define Ninja Thief 
+#define ShrineMaiden Cleric 
+#define Songstress Dancer 
+#define Samurai Swordmaster 
+#define Diviner Monk 
+#define SpearFighter Knight 
+#define Outlaw Thief 
+#define DarkKnight Druid 
+#define Wolfskin Mercenary 
+#define MasterNinja Assassin 
+#define SkyKnight PegasusKnight 
+#define Adventurer Rogue 
 
 
 #define defr(name, value) "#define name value" 

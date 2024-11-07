@@ -447,7 +447,7 @@ Cuan[X]
 ## CuanDesc  
 The prince of Lenster.[N]
 Defender of his homeland and allies.[N]
-Art by Atey, Melia, Renoud[X]
+Art by [X]
 
 ## EthlinName  
 Ethlin[X]
@@ -524,7 +524,7 @@ Holyn[X]
 ## HolynDesc  
 A skilled swordsman from Isaach.[N]
 Driven by a code of honor.[N]
-Art by [X]
+Art by Atey, Melia, Renoud[X]
 
 ## LachesisName  
 Lachesis[X]
@@ -2385,7 +2385,7 @@ Art by Garytop[X]
 Gerome[X]
 ## GeromeDesc  
 An enigmatic dracoknight who[N]
-distances himself with a mask.[N]
+distanced himself with a mask.[N]
 Art by Garytop[X]
 
 ## MorganName  
@@ -2474,9 +2474,492 @@ Art by Garytop[X]
 
 
 
+// fe14 
+
+## CorrinName  
+Corrin[X]
+## CorrinMDesc  
+A royal of mixed Hoshidan and Nohrian blood.[N]
+Chosen to wield the legendary Yato.[N]
+Art by Lenh[X]
+## CorrinFDesc  
+A royal of mixed Hoshidan and Nohrian blood.[N]
+Chosen to wield the legendary Yato.[N]
+Art by SomeDenseGuy[X]
+
+## GunterName  
+Gunter[X]
+## GunterDesc  
+A seasoned knight who serves Corrin.[N]
+Gruff yet deeply loyal and protective.[N]
+Art by [X]
+
+## FeliciaName  
+Felicia[X]
+## FeliciaDesc  
+A clumsy maid from the Ice Tribe.[N]
+Determined to improve her skills.[N]
+Art by JeyTheCount[X]
+
+## JakobName  
+Jakob[X]
+## JakobDesc  
+A skilled butler serving Corrin.[N]
+Polite yet sharp-tongued at times.[N]
+Art by JeyTheCount[X]
+
+## RinkahName  
+Rinkah[X]
+## RinkahDesc  
+A fierce warrior of the Flame Tribe.[N]
+Brave and headstrong in battle.[N]
+Art by JeyTheCount[X]
+
+## KazeName  
+Kaze[X]
+## KazeDesc  
+A loyal ninja from Hoshido.[N]
+Swift and dedicated to his duty.[N]
+Art by [X]
+
+## SakuraName  
+Sakura[X]
+## SakuraDesc  
+A gentle Hoshidan princess.[N]
+Blessed with healing powers.[N]
+Art by Fenriel[X]
+
+## AzuraName  
+Azura[X]
+## AzuraDesc  
+A mysterious songstress with a[N]
+hidden connection to water magic.[N]
+Art by BatimaTheBat[X]
+
+## HanaName  
+Hana[X]
+## HanaDesc  
+A Samurai and loyal retainer to Sakura.[N]
+Skilled with the katana.[N]
+Art by JeyTheCount[X]
+
+## SubakiName  
+Subaki[X]
+## SubakiDesc  
+A Pegasus Knight with high standards.[N]
+Strives to be perfect in all ways.[N]
+Art by Blade[X]
+
+## SilasName  
+Silas[X]
+## SilasDesc  
+A knight and childhood friend of Corrin.[N]
+Devoted and steadfast in loyalty.[N]
+Art by JeyTheCount[X]
+
+## SaizoName  
+Saizo[X]
+## SaizoDesc  
+A stoic ninja in service of Hoshido.[N]
+Carries out his missions with focus.[N]
+Art by [X]
+
+## OrochiName  
+Orochi[X]
+## OrochiDesc  
+A diviner with a mischievous streak.[N]
+Uses magic to predict the future.[N]
+Art by [X]
+
+## HinokaName  
+Hinoka[X]
+## HinokaDesc  
+A strong-willed princess of Hoshido.[N]
+Determined to protect her family.[N]
+Art by Garytop[X]
+
+## AzamaName  
+Azama[X]
+## AzamaDesc  
+A sarcastic priest in Hoshido's service.[N]
+Often has an acerbic wit.[N]
+Art by [X]
+
+## SetsunaName  
+Setsuna[X]
+## SetsunaDesc  
+An archer with a calm, spacey nature.[N]
+Tends to be easily distracted.[N]
+Art by [X]
+
+## HayatoName  
+Hayato[X]
+## HayatoDesc  
+A young diviner from the Wind Tribe.[N]
+Confident in his magical skills.[N]
+Art by [X]
+
+## OboroName  
+Oboro[X]
+## OboroDesc  
+A spear fighter with a hatred of Nohr.[N]
+Loyal and fashion-loving.[N]
+Art by Atey[X]
+
+## HinataName  
+Hinata[X]
+## HinataDesc  
+A friendly Samurai loyal to Hoshido.[N]
+Known for his lively nature.[N]
+Art by Sterling_Glovner[X]
+
+## TakumiName  
+Takumi[X]
+## TakumiDesc  
+A skilled archer prince of Hoshido.[N]
+Wields the divine Fujin Yumi.[N]
+Art by Fenriel[X]
+
+## KageroName  
+Kagero[X]
+## KageroDesc  
+A ninja with loyalty to Ryoma.[N]
+Serious and artistic.[N]
+Art by Nobody[X]
+
+## ReinaName  
+Reina[X]
+## ReinaDesc  
+A fierce warrior from Hoshido.[N]
+Kind but ruthless in battle.[N]
+Art by [X]
+
+## KadenName  
+Kaden[X]
+## KadenDesc  
+A charming kitsune from Hoshido.[N]
+Proud and fond of his appearance.[N]
+Art by [X]
+
+## RyomaName  
+Ryoma[X]
+## RyomaDesc  
+The noble prince of Hoshido.[N]
+Wields the legendary Raijinto.[N]
+Art by Garytop[X]
+
+## ScarletName  
+Scarlet[X]
+## ScarletDesc  
+A rebel leader from Cheve.[N]
+Strong and unyielding.[N]
+Art by JeyTheCount[X]
+
+## ShuraName  
+Shura[X]
+## ShuraDesc  
+A rogue from Nohr with a dark past.[N]
+Skilled in survival and combat.[N]
+Art by [X]
+
+## EliseName  
+Elise[X]
+## EliseDesc  
+A sweet and caring princess of Nohr.[N]
+Gifted with healing magic.[N]
+Art by JeyTheCount[X]
+
+## ArthurName  
+Arthur[X]
+## ArthurDesc  
+A justice-driven fighter from Nohr.[N]
+Known for his terrible luck.[N]
+Art by SatoshiKura[X]
+
+## EffieName  
+Effie[X]
+## EffieDesc  
+A strong knight devoted to Elise.[N]
+Loyal and incredibly powerful.[N]
+Art by JeyTheCount[X]
+
+## OdinName  
+Odin[X]
+## OdinDesc  
+A dramatic mage from Nohr.[N]
+Uses theatrical spells.[N]
+Art by [X]
+
+## NilesName  
+Niles[X]
+## NilesDesc  
+A mysterious outlaw from Nohr.[N]
+Known for his sharp tongue.[N]
+Art by [X]
+
+## NyxName  
+Nyx[X]
+## NyxDesc  
+A dark mage with a tragic past.[N]
+Wise yet youthful in appearance.[N]
+Art by Nobody[X]
+
+## CamillaName  
+Camilla[X]
+## CamillaDesc  
+A devoted princess of Nohr.[N]
+Wields an axe and rides a wyvern.[N]
+Art by JeyTheCount[X]
+
+## SelenaName  
+Selena[X]
+## SelenaDesc  
+A fierce mercenary serving Nohr.[N]
+Known for her sharp attitude.[N]
+Art by [X]
+
+## BerukaName  
+Beruka[X]
+## BerukaDesc  
+A quiet, skilled assassin of Nohr.[N]
+Shows little emotion.[N]
+Art by [X]
+
+## LaslowName  
+Laslow[X]
+## LaslowDesc  
+A charming mercenary with a secret.[N]
+Enjoys dancing and flirting.[N]
+Art by BatimaTheBat[X]
+
+## PeriName  
+Peri[X]
+## PeriDesc  
+A cavalier with a childlike nature.[N]
+Can be surprisingly violent.[N]
+Art by JeyTheCount[X]
+
+## BennyName  
+Benny[X]
+## BennyDesc  
+A gentle giant and knight of Nohr.[N]
+Protective and kind-hearted.[N]
+Art by JeyTheCount[X]
 
 
+## CharlotteName  
+Charlotte[X]
+## CharlotteDesc  
+A fierce fighter from Nohr.[N]
+Dreams of marrying into wealth.[N]
+Art by [X]
 
+## LeoName  
+Leo[X]
+## LeoDesc  
+A brilliant, tactical prince of Nohr.[N]
+Wields the legendary Brynhildr.[N]
+Art by Glaceo[X]
+
+## KeatonName  
+Keaton[X]
+## KeatonDesc  
+A mischievous wolfskin warrior.[N]
+Collects various strange objects.[N]
+Art by [X]
+
+## XanderName  
+Xander[X]
+## XanderDesc  
+The honorable crown prince of Nohr.[N]
+Wields the divine Siegfried.[N]
+Art by Garytop[X]
+
+## IzanaName  
+Izana[X]
+## IzanaDesc  
+The cheerful, carefree ruler of Izumo.[N]
+Wise yet relaxed in manner.[N]
+Art by [X]
+
+## FugaName  
+Fuga[X]
+## FugaDesc  
+The stoic chieftain of the Wind Tribe.[N]
+Skilled and highly respected.[N]
+Art by [X]
+
+## YukimuraName  
+Yukimura[X]
+## YukimuraDesc  
+A skilled strategist of Hoshido.[N]
+Dedicated to protecting his nation.[N]
+Art by [X]
+
+## FloraName  
+Flora[X]
+## FloraDesc  
+A maid from the Ice Tribe.[N]
+Dedicated and skilled with ice magic.[N]
+Art by [X]
+
+## MozuName  
+Mozu[X]
+## MozuDesc  
+A villager who lost her home.[N]
+Determined and hardworking.[N]
+Art by Nobody[X]
+
+## KanaName  
+Kana[X]
+## KanaMDesc  
+Corrin's young child with a big heart.[N]
+Eager to protect friends and family.[N]
+Art by [X]
+## KanaFDesc  
+Corrin's young child with a big heart.[N]
+Eager to protect friends and family.[N]
+Art by [X]
+
+## ShigureName  
+Shigure[X]
+## ShigureDesc  
+Azura's son with a gentle nature.[N]
+Loves art and singing.[N]
+Art by Lenh[X]
+
+## DwyerName  
+Dwyer[X]
+## DwyerDesc  
+Jakob's laid-back son.[N]
+A talented healer despite his attitude.[N]
+Art by [X]
+
+## SophieName  
+Sophie[X]
+## SophieDesc  
+Silas's daughter and an aspiring knight.[N]
+Full of energy and optimism.[N]
+Art by Sterling_Glovner[X]
+
+## MidoriName  
+Midori[X]
+## MidoriDesc  
+Kaze's earnest and hardworking daughter.[N]
+Skilled at creating medicine.[N]
+Art by Nobody[X]
+
+## ShiroName  
+Shiro[X]
+## ShiroDesc  
+Ryoma's spirited son.[N]
+Determined to make a name for himself.[N]
+Art by [X]
+
+## KiragiName  
+Kiragi[X]
+## KiragiDesc  
+Takumi's cheerful son.[N]
+Loves the outdoors and hunting.[N]
+Art by Sterling_Glovner[X]
+
+## AsugiName  
+Asugi[X]
+## AsugiDesc  
+Saizo's son, known for his sweet tooth.[N]
+Follows in his father's ninja path.[N]
+Art by [X]
+
+## SelkieName  
+Selkie[X]
+## SelkieDesc  
+Kaden's energetic daughter.[N]
+Playful and adventurous.[N]
+Art by Sterling_Glovner[X]
+
+## HisameName  
+Hisame[X]
+## HisameDesc  
+Hana's stoic son who loves pickles.[N]
+Calm and serious in nature.[N]
+Art by [X]
+
+## MitamaName  
+Mitama[X]
+## MitamaDesc  
+Azama's poetic daughter.[N]
+Often found napping or writing verse.[N]
+Art by Sterling_Glovner[X]
+
+## CaeldoriName  
+Caeldori[X]
+## CaeldoriDesc  
+Subaki's perfectionist daughter.[N]
+Hardworking and dedicated.[N]
+Art by [X]
+
+## RhajatName  
+Rhajat[X]
+## RhajatDesc  
+Tharja's reincarnated daughter.[N]
+Mysterious and dark in personality.[N]
+Art by [X]
+
+## SiegbertName  
+Siegbert[X]
+## SiegbertDesc  
+Xander's noble and diligent son.[N]
+Trains hard to follow his father.[N]
+Art by [X]
+
+## ForrestName  
+Forrest[X]
+## ForrestDesc  
+Leo's fashionable and gentle son.[N]
+Loves sewing and helping others.[N]
+Art by [X]
+
+## IgnatiusName  
+Ignatius[X]
+## IgnatiusDesc  
+Benny's timid but strong son.[N]
+Values safety and protection.[N]
+Art by JeyTheCount[X]
+
+## VelouriaName  
+Velouria[X]
+## VelouriaDesc  
+Keaton's curious, treasure-loving daughter.[N]
+Loyal and protective.[N]
+Art by [X]
+
+## PercyName  
+Percy[X]
+## PercyDesc  
+Arthur's optimistic son.[N]
+Brave, cheerful, and lucky.[N]
+Art by [X]
+
+## OpheliaName  
+Ophelia[X]
+## OpheliaDesc  
+Odin's theatrical and magical daughter.[N]
+Believes herself to be a chosen hero.[N]
+Art by [X]
+
+## SoleilName  
+Soleil[X]
+## SoleilDesc  
+Laslow's cheerful and flirtatious daughter.[N]
+Loves being around others.[N]
+Art by Zorua[X]
+
+## NinaName  
+Nina[X]
+## NinaDesc  
+Niles's daughter with a sharp wit.[N]
+A romantic at heart.[N]
+Art by JeyTheCount[X]
 
 
 
