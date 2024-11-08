@@ -87,30 +87,17 @@
 // #define RoyLord Mercenary
 #define BlankMug 0
 
+// fe10 
 #define KyzaMug BlankMug 
 
-
-#define CuanMug BlankMug 
+// fe4/5 
 #define ArdenMug BlankMug 
-#define AdeanMug BlankMug 
 #define DewMug BlankMug 
-#define DiadoraMug BlankMug 
-#define NoishMug BlankMug 
-#define IraMug BlankMug 
-#define ManaMug BlankMug 
-#define RadneyMug BlankMug 
-#define RoddMug BlankMug 
-#define TristanMug BlankMug 
-#define DimnaMug BlankMug 
-#define YuriaMug BlankMug 
-#define AmidMug BlankMug 
-#define JohanMug BlankMug 
-#define JohalvaMug BlankMug 
+#define NaoiseMug BlankMug 
+#define AyraMug BlankMug 
+#define RoddMug BlankMug // Roderick
 #define ShananMug BlankMug 
-#define DaisyMug BlankMug 
-#define JanneMug BlankMug 
-#define LayleaMug BlankMug 
-#define SharlowMug BlankMug 
+#define SharlowMug BlankMug // Charlot 
 #define SafyMug BlankMug 
 #define MachyuaMug BlankMug 
 #define AsbelMug BlankMug 
@@ -132,7 +119,6 @@
 #define RoddlevanMug BlankMug 
 #define AsaelloMug BlankMug 
 #define LaraMug BlankMug 
-// #define Mug BlankMug 
 
 // fe14 
 #define GunterMug BlankMug 
@@ -143,8 +129,6 @@
 #define SetsunaMug BlankMug 
 #define HayatoMug BlankMug 
 #define ReinaMug BlankMug 
-#define KadenMug BlankMug 
-#define ShuraMug BlankMug 
 #define NilesMug BlankMug 
 #define SelenaMug BlankMug 
 #define BerukaMug BlankMug 

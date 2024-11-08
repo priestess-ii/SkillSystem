@@ -421,12 +421,12 @@ A noble knight from Chalphy.[N]
 Seeks justice in a turbulent world.[N]
 Art by [X]
 
-## NoishName  
-Noish[X]
-## NoishDesc  
+## NaoiseName  
+Naoise[X]
+## NaoiseDesc  
 A loyal knight of Chalphy.[N]
 Known for his steadfast dedication.[N]
-Art by Atey[X]
+Art by[X]
 
 ## AlecName  
 Alec[X]
@@ -443,11 +443,11 @@ Strong, loyal, and protective.[N]
 Art by [X]
 
 ## CuanName  
-Cuan[X]
+Quan[X]
 ## CuanDesc  
 The prince of Lenster.[N]
 Defender of his homeland and allies.[N]
-Art by [X]
+Art by Garytop[X]
 
 ## EthlinName  
 Ethlin[X]
@@ -484,12 +484,12 @@ A gentle archer from Jungby.[N]
 Devoted to protecting those he loves.[N]
 Art by Zoisite[X]
 
-## AdeanName  
-Adean[X]
-## AdeanDesc  
+## EdainName  
+Edain[X]
+## EdainDesc  
 A caring priestess from Jungby.[N]
 Guides others with kindness.[N]
-Art by [X]
+Art by TAS20XX[X]
 
 ## DewName  
 Dew[X]
@@ -498,19 +498,19 @@ A young thief with a big heart.[N]
 Supports his allies from the shadows.[N]
 Art by [X]
 
-## IraName  
-Ira[X]
-## IraDesc  
+## AyraName  
+Ayra[X]
+## AyraDesc  
 A fierce swordswoman from Isaach.[N]
 Fights with determination and honor.[N]
 Art by [X]
 
-## DiadoraName  
-Diadora[X]
-## DiadoraDesc  
+## DeirdreName  
+Deirdre[X]
+## DeirdreDesc  
 A mysterious woman of great power.[N]
 Seeks peace above all else.[N]
-Art by [X]
+Art by Atey, Wasdye[X]
 
 ## JamkaName  
 Jamka[X]
@@ -587,14 +587,14 @@ Mana[X]
 ## ManaDesc  
 A priestess devoted to healing.[N]
 Compassionate and gentle in spirit.[N]
-Art by [X]
+Art by Melia[X]
 
-## RadneyName  
-Radney[X]
-## RadneyDesc  
+## CreidneName  
+Creidne[X]
+## CreidneDesc  
 A swordswoman with fierce resolve.[N]
 Protects those dear to her heart.[N]
-Art by [X]
+Art by Melia[X]
 
 ## RoddlevanName  
 Roddlevan[X]
@@ -615,21 +615,21 @@ Tristan[X]
 ## TristanDesc  
 A young knight with courage.[N]
 Fights to defend his homeland.[N]
-Art by [X]
+Art by Melia[X]
 
 ## DimnaName  
 Dimna[X]
 ## DimnaDesc  
 An archer of strong resolve.[N]
 Seeks to prove himself in battle.[N]
-Art by [X]
+Art by Melia[X]
 
-## YuriaName  
-Yuria[X]
-## YuriaDesc  
+## JuliaName  
+Julia[X]
+## JuliaDesc  
 A young mage with mystical powers.[N]
 Holds a deep sense of compassion.[N]
-Art by [X]
+Art by Atey[X]
 
 ## FeeName  
 Fee[X]
@@ -643,21 +643,21 @@ Amid[X]
 ## AmidDesc  
 A young mage with determination.[N]
 Guided by a sense of justice.[N]
-Art by [X]
+Art by Melia[X]
 
 ## JohanName  
 Johan[X]
 ## JohanDesc  
 A warrior with a heart of gold.[N]
 Loyal to those he respects.[N]
-Art by [X]
+Art by Melia[X]
 
 ## JohalvaName  
 Johalva[X]
 ## JohalvaDesc  
 A proud warrior of Verdane.[N]
 Driven by his own ideals.[N]
-Art by [X]
+Art by Melia[X]
 
 ## ShananName  
 Shanan[X]
@@ -671,14 +671,14 @@ Daisy[X]
 ## DaisyDesc  
 A cheerful thief with quick reflexes.[N]
 Supports allies in subtle ways.[N]
-Art by [X]
+Art by Melia[X]
 
-## JanneName  
-Janne[X]
-## JanneDesc  
+## JeanneName  
+Jeanne[X]
+## JeanneDesc  
 A brave lance knight.[N]
 Courageous and true to her beliefs.[N]
-Art by [X]
+Art by Melia[X]
 
 ## AlessName  
 Aless[X]
@@ -692,7 +692,7 @@ Laylea[X]
 ## LayleaDesc  
 A dancer with graceful movements.[N]
 Inspires courage in her allies.[N]
-Art by [X]
+Art by Melia[X]
 
 ## LindaName  
 Linda[X]
@@ -2639,7 +2639,7 @@ Kaden[X]
 ## KadenDesc  
 A charming kitsune from Hoshido.[N]
 Proud and fond of his appearance.[N]
-Art by [X]
+Art by VelvetKitsune[X]
 
 ## RyomaName  
 Ryoma[X]
@@ -2660,7 +2660,7 @@ Shura[X]
 ## ShuraDesc  
 A rogue from Nohr with a dark past.[N]
 Skilled in survival and combat.[N]
-Art by [X]
+Art by cardcafe[X]
 
 ## EliseName  
 Elise[X]
