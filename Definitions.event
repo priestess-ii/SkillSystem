@@ -87,6 +87,126 @@
 // #define RoyLord Mercenary
 #define BlankMug 0
 
+// fe17 
+#define AlearMMug BlankMug
+#define VanderMug BlankMug
+#define ClanneMug BlankMug
+#define FrammeMug BlankMug
+#define AlfredMug BlankMug
+#define EtieMug BlankMug
+#define BoucheronMug BlankMug
+#define CelineMug BlankMug
+#define ChloeMug BlankMug
+#define LouisMug BlankMug
+#define AlcrystMug BlankMug
+#define LapisMug BlankMug
+#define DiamantMug BlankMug
+#define AmberMug BlankMug
+#define JadeMug BlankMug
+#define IvyMug BlankMug
+#define KagetsuMug BlankMug
+#define ZelkovMug BlankMug
+#define FogadoMug BlankMug
+#define PandreoMug BlankMug
+#define BunetMug BlankMug
+#define TimerraMug BlankMug
+#define PanetteMug BlankMug
+#define MerrinMug BlankMug
+#define HortensiaMug BlankMug
+#define SeadallMug BlankMug
+#define RosadoMug BlankMug
+#define GoldmaryMug BlankMug
+#define LindonMug BlankMug
+#define VeyleMug BlankMug
+#define MauvierMug BlankMug
+#define JeanMug BlankMug
+#define NelMug BlankMug
+#define RafalMug BlankMug
+#define ZelestiaMug BlankMug
+#define GregoryMug BlankMug
+#define MadelineMug BlankMug
+
+
+// fe16 
+#define BylethFMug BlankMug
+#define DimitriMug BlankMug
+#define ClaudeFE16Mug BlankMug
+#define HubertMug BlankMug
+#define CasparMug BlankMug
+#define DorotheaMug BlankMug
+#define PetraMug BlankMug
+#define DedueMug BlankMug
+#define FelixMug BlankMug
+#define AsheMug BlankMug
+#define IngridMug BlankMug
+#define LorenzFE16Mug BlankMug
+#define IgnatzMug BlankMug
+#define SetethMug BlankMug
+#define HannemanMug BlankMug
+#define GilbertMug BlankMug
+#define CyrilMug BlankMug
+
+
+
+// fe15 
+#define ClairMug BlankMug
+#define CliveMug BlankMug
+#define ForsythMug BlankMug
+#define PythonMug BlankMug
+#define LuthierMug BlankMug
+#define DeltheaMug BlankMug
+#define TatianaMug BlankMug
+#define MycenMug BlankMug
+#define FayeMug BlankMug
+#define MaeMug BlankMug
+#define BoeyMug BlankMug
+#define SaberMug BlankMug
+#define ValbarMug BlankMug
+#define KamuiMug BlankMug
+#define LeonMug BlankMug
+#define PallaFe15Mug BlankMug
+#define CatriaFe15Mug BlankMug
+#define AtlasMug BlankMug
+#define JesseMug BlankMug
+#define DeenFe15Mug BlankMug
+#define EstFe15Mug BlankMug
+#define NomahMug BlankMug
+#define ConradMug BlankMug
+
+
+// fe14 
+#define GunterMug BlankMug 
+#define KazeMug BlankMug 
+#define SaizoMug BlankMug 
+#define OrochiMug BlankMug 
+#define AzamaMug BlankMug 
+#define SetsunaMug BlankMug 
+#define HayatoMug BlankMug 
+#define ReinaMug BlankMug 
+#define NilesMug BlankMug 
+#define SelenaMug BlankMug 
+#define BerukaMug BlankMug 
+#define CharlotteMug BlankMug 
+#define KeatonMug BlankMug 
+#define IzanaMug BlankMug 
+#define FugaMug BlankMug 
+#define YukimuraMug BlankMug 
+#define FloraMug BlankMug 
+#define KanaMMug BlankMug 
+#define DwyerMug BlankMug 
+#define ShiroMug BlankMug 
+#define AsugiMug BlankMug 
+#define HisameMug BlankMug 
+#define CaeldoriMug BlankMug 
+#define RhajatMug BlankMug 
+#define SiegbertMug BlankMug 
+#define ForrestMug BlankMug 
+#define VelouriaMug BlankMug 
+#define PercyMug BlankMug 
+#define OpheliaMug BlankMug 
+#define OdinMug BlankMug 
+
+
 // fe10 
 #define KyzaMug BlankMug 
 
@@ -120,37 +240,9 @@
 #define AsaelloMug BlankMug 
 #define LaraMug BlankMug 
 
-// fe14 
-#define GunterMug BlankMug 
-#define KazeMug BlankMug 
-#define SaizoMug BlankMug 
-#define OrochiMug BlankMug 
-#define AzamaMug BlankMug 
-#define SetsunaMug BlankMug 
-#define HayatoMug BlankMug 
-#define ReinaMug BlankMug 
-#define NilesMug BlankMug 
-#define SelenaMug BlankMug 
-#define BerukaMug BlankMug 
-#define CharlotteMug BlankMug 
-#define KeatonMug BlankMug 
-#define IzanaMug BlankMug 
-#define FugaMug BlankMug 
-#define YukimuraMug BlankMug 
-#define FloraMug BlankMug 
-#define KanaMMug BlankMug 
-#define DwyerMug BlankMug 
-#define ShiroMug BlankMug 
-#define AsugiMug BlankMug 
-#define HisameMug BlankMug 
-#define CaeldoriMug BlankMug 
-#define RhajatMug BlankMug 
-#define SiegbertMug BlankMug 
-#define ForrestMug BlankMug 
-#define VelouriaMug BlankMug 
-#define PercyMug BlankMug 
-#define OpheliaMug BlankMug 
-#define OdinMug BlankMug 
+
+
+
 
 // #define FireAffinity 1
 // #define ThunderAffinity 2
@@ -253,6 +345,32 @@
 #define SkyKnight PegasusKnight 
 #define Adventurer Rogue 
 
+// fe15 
+#define GoldKnight Paladin 
+
+// fe16 
+#define Noble Lord 
+#define Commoner Myrmidon 
+#define LanceArmor Knight  
+#define LanceCavalier Cavalier 
+#define SwordFighter Myrmidon 
+#define SentinelBow Archer 
+#define SentinelLance Knight 
+#define WolfKnight Cavalier 
+#define WindTamer Mage 
+#define RoyalKnight Paladin 
+
+
+// fe17 
+
+#define Priestess Cleric 
+#define FortressKnight General 
+#define DragonChild Manakete_2_F 
+#define MartialMonk Fighter 
+#define LanceFlier PegasusKnight 
+#define AxeArmor Knight 
+#define WingTamer PegasusKnight 
+#define FellChild Manakete_2_F
 
 #define defr(name, value) "#define name value" 
 
