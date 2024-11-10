@@ -597,11 +597,11 @@ Protects those dear to her heart.[N]
 Art by Melia[X]
 
 ## RoddlevanName  
-Roddlevan[X]
+Dalvin[X]
 ## RoddlevanDesc  
 A young swordsman with ambition.[N]
 Aims to grow in strength and honor.[N]
-Art by [X]
+Art by Melia[X]
 
 ## OifeyName  
 Oifey[X]
@@ -660,11 +660,11 @@ Driven by his own ideals.[N]
 Art by Melia[X]
 
 ## ShananName  
-Shanan[X]
+Shannan[X]
 ## ShananDesc  
 A master swordsman of Isaach.[N]
 Guided by honor and loyalty.[N]
-Art by [X]
+Art by Melia[X]
 
 ## DaisyName  
 Daisy[X]
@@ -706,7 +706,7 @@ Asaello[X]
 ## AsaelloDesc  
 An archer with sharp aim.[N]
 Determined to prove his worth.[N]
-Art by [X]
+Art by Melia[X]
 
 ## HawkName  
 Hawk[X]
@@ -723,11 +723,11 @@ Protects his homeland with pride.[N]
 Art by Melia[X]
 
 ## SharlowName  
-Sharlow[X]
+Charlot[X]
 ## SharlowDesc  
 A priest with a gentle heart.[N]
 Heals allies and offers wisdom.[N]
-Art by [X]
+Art by Melia[X]
 
 
 
@@ -808,7 +808,7 @@ Safy[X]
 ## SafyDesc  
 A kind healer dedicated to her comrades.[N]
 Uses her magic to mend wounds in battle.[N]
-Art by [X]
+Art by Melia[X]
 
 ## BrightonName  
 Brighton[X]
@@ -822,14 +822,14 @@ Machyua[X]
 ## MachyuaDesc  
 A fierce fighter known for her speed.[N]
 Determined to protect her homeland.[N]
-Art by [X]
+Art by Melia[X]
 
 ## LaraName  
 Lara[X]
 ## LaraDesc  
 A skilled thief and resourceful ally.[N]
 Supports her friends with her cunning.[N]
-Art by [X]
+Art by Melia[X]
 
 ## FergusName  
 Fergus[X]
@@ -857,7 +857,7 @@ Asbel[X]
 ## AsbelDesc  
 A talented mage with a kind heart.[N]
 Uses magic to aid his friends in need.[N]
-Art by [X]
+Art by Melia[X]
 
 ## NannaName  
 Nanna[X]
@@ -899,21 +899,21 @@ Cain[X]
 ## Cain2Desc  
 A brave knight with a sense of duty.[N]
 Strives to protect his comrades in battle.[N]
-Art by [X]
+Art by Dongus[X]
 
 ## AlvaName  
 Alva[X]
 ## AlvaDesc  
 A loyal knight with great valor.[N]
 Always fights for his allies' safety.[N]
-Art by [X]
+Art by Dongus[X]
 
 ## RobertName  
 Robert[X]
 ## RobertDesc  
 An archer with keen eyes and aim.[N]
 Strikes from a distance to protect others.[N]
-Art by [X]
+Art by Dongus[X]
 
 ## FredName  
 Fred[X]
@@ -1025,7 +1025,7 @@ Misha[X]
 ## MishaDesc  
 A spirited healer dedicated to her friends.[N]
 Uses her magic to support in battle.[N]
-Art by [X]
+Art by claire45[X]
 
 ## SaraName  
 Sara[X]
@@ -1053,7 +1053,7 @@ Xavier[X]
 ## XavierDesc  
 A wise strategist with vast experience.[N]
 Leads with intelligence and skill.[N]
-Art by [X]
+Art by TheGreatNothing[X]
 
 ## AmaldaName  
 Amalda[X]
@@ -2078,7 +2078,8 @@ Art by Nickt, Stitch[X]
 Kyza[X]
 ## KyzaDesc  
 A laguz tiger with a strong sense of honor.[N]
-Fights for justice and to protect others.[X]
+Fights for justice and to protect others.[N]
+Art by Quotedotlass[X]
 
 ## LyreName  
 Lyre[X]
@@ -3031,7 +3032,7 @@ Python[X]
 ## PythonDesc  
 An archer with a laid-back attitude.[N]
 Often seems unmotivated.[N]
-Art by [X]
+Art by Norikins[X]
 
 ## LuthierName  
 Luthier[X]
@@ -3052,7 +3053,7 @@ Delthea[X]
 ## DeltheaDesc  
 A young mage with immense talent.[N]
 Lively and a bit mischievous.[N]
-Art by [X]
+Art by RedBean[X]
 
 ## TatianaName  
 Tatiana[X]
@@ -3115,7 +3116,7 @@ Saber[X]
 ## SaberDesc  
 A skilled and independent mercenary.[N]
 Joins Celica's journey for gold.[N]
-Art by [X]
+Art by What-Is-An-Aubin[X]
 
 ## ValbarName  
 Valbar[X]
@@ -3234,7 +3235,7 @@ Claude[X]
 ## ClaudeFE16Desc  
 The clever heir of the Leicester Alliance.[N]
 Known for his curiosity and wit.[N]
-Art by [X]
+Art by Melia, CranJam[X]
 
 ## HubertName  
 Hubert[X]
@@ -3339,7 +3340,7 @@ Lorenz[X]
 ## LorenzFE16Desc  
 A noble of the Leicester Alliance.[N]
 Believes in the power of tradition.[N]
-Art by [X]
+Art by Tobiki[X]
 
 ## RaphaelName  
 Raphael[X]
@@ -3454,7 +3455,7 @@ Alear[X]
 ## AlearMDesc  
 A mysterious young hero chosen by fate.[N]
 Determined to protect those they love.[N]
-Art by [X]
+Art by CavalryUnits[X]
 ## AlearFDesc  
 A mysterious young hero chosen by fate.[N]
 Determined to protect those they love.[N]
@@ -3493,7 +3494,7 @@ Etie[X]
 ## EtieDesc  
 An archer with a positive outlook.[N]
 Loves exercise and training.[N]
-Art by [X]
+Art by KingCrimson[X]
 
 ## BoucheronName  
 Boucheron[X]
@@ -3577,14 +3578,14 @@ Ivy[X]
 ## IvyDesc  
 A mysterious mage with poise.[N]
 Commands the respect of her peers.[N]
-Art by [X]
+Art by KingCrimson[X]
 
 ## KagetsuName  
 Kagetsu[X]
 ## KagetsuDesc  
 A skilled and honorable sword fighter.[N]
 Dedicated to honing his skills.[N]
-Art by [X]
+Art by Tobiki[X]
 
 ## ZelkovName  
 Zelkov[X]
@@ -3633,7 +3634,7 @@ Merrin[X]
 ## MerrinDesc  
 A knight with a love for freedom.[N]
 Loyal, with a fondness for wolves.[N]
-Art by [X]
+Art by Tobiki[X]
 
 ## HortensiaName  
 Hortensia[X]
@@ -3661,14 +3662,14 @@ Goldmary[X]
 ## GoldmaryDesc  
 A strong and self-assured fighter.[N]
 Known for her elegance and skill.[N]
-Art by [X]
+Art by Stitch[X]
 
 ## LindonName  
 Lindon[X]
 ## LindonDesc  
 A wise sage and talented mage.[N]
 Dedicated to knowledge and growth.[N]
-Art by [X]
+Art by FEier[X]
 
 ## SaphirName  
 Saphir[X]

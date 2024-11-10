@@ -85,15 +85,13 @@
 // "undefined-coalescing" operator '??' ('L ?? R' evaluates to L if L does not contain undefined symbols, R otherwise)
 //#if IsSymbolDefined(RoyLord); #else; MESSAGE 2; #endif 
 // #define RoyLord Mercenary
-#define BlankMug 0
+// #define BlankMug 0
 
 // fe17 
-#define AlearMMug BlankMug
 #define VanderMug BlankMug
 #define ClanneMug BlankMug
 #define FrammeMug BlankMug
 #define AlfredMug BlankMug
-#define EtieMug BlankMug
 #define BoucheronMug BlankMug
 #define CelineMug BlankMug
 #define ChloeMug BlankMug
@@ -103,20 +101,15 @@
 #define DiamantMug BlankMug
 #define AmberMug BlankMug
 #define JadeMug BlankMug
-#define IvyMug BlankMug
-#define KagetsuMug BlankMug
 #define ZelkovMug BlankMug
 #define FogadoMug BlankMug
 #define PandreoMug BlankMug
 #define BunetMug BlankMug
 #define TimerraMug BlankMug
 #define PanetteMug BlankMug
-#define MerrinMug BlankMug
 #define HortensiaMug BlankMug
 #define SeadallMug BlankMug
 #define RosadoMug BlankMug
-#define GoldmaryMug BlankMug
-#define LindonMug BlankMug
 #define VeyleMug BlankMug
 #define MauvierMug BlankMug
 #define JeanMug BlankMug
@@ -126,11 +119,9 @@
 #define GregoryMug BlankMug
 #define MadelineMug BlankMug
 
-
 // fe16 
 #define BylethFMug BlankMug
 #define DimitriMug BlankMug
-#define ClaudeFE16Mug BlankMug
 #define HubertMug BlankMug
 #define CasparMug BlankMug
 #define DorotheaMug BlankMug
@@ -139,28 +130,22 @@
 #define FelixMug BlankMug
 #define AsheMug BlankMug
 #define IngridMug BlankMug
-#define LorenzFE16Mug BlankMug
 #define IgnatzMug BlankMug
 #define SetethMug BlankMug
 #define HannemanMug BlankMug
 #define GilbertMug BlankMug
 #define CyrilMug BlankMug
 
-
-
 // fe15 
 #define ClairMug BlankMug
 #define CliveMug BlankMug
 #define ForsythMug BlankMug
-#define PythonMug BlankMug
 #define LuthierMug BlankMug
-#define DeltheaMug BlankMug
 #define TatianaMug BlankMug
 #define MycenMug BlankMug
 #define FayeMug BlankMug
 #define MaeMug BlankMug
 #define BoeyMug BlankMug
-#define SaberMug BlankMug
 #define ValbarMug BlankMug
 #define KamuiMug BlankMug
 #define LeonMug BlankMug
@@ -172,7 +157,6 @@
 #define EstFe15Mug BlankMug
 #define NomahMug BlankMug
 #define ConradMug BlankMug
-
 
 // fe14 
 #define GunterMug BlankMug 
@@ -206,24 +190,12 @@
 #define OpheliaMug BlankMug 
 #define OdinMug BlankMug 
 
-
-// fe10 
-#define KyzaMug BlankMug 
-
 // fe4/5 
 #define ArdenMug BlankMug 
 #define DewMug BlankMug 
 #define NaoiseMug BlankMug 
 #define AyraMug BlankMug 
 #define RoddMug BlankMug // Roderick
-#define ShananMug BlankMug 
-#define SharlowMug BlankMug // Charlot 
-#define SafyMug BlankMug 
-#define MachyuaMug BlankMug 
-#define AsbelMug BlankMug 
-#define Cain2Mug BlankMug 
-#define AlvaMug BlankMug 
-#define RobertMug BlankMug 
 #define SalemMug BlankMug 
 #define TinaMug BlankMug 
 #define GladeMug BlankMug 
@@ -232,13 +204,7 @@
 #define SleufMug BlankMug 
 #define SaraMug BlankMug 
 #define MirandaMug BlankMug 
-#define MishaMug BlankMug 
-#define XavierMug BlankMug 
 #define ConomorMug BlankMug 
-#define DiarmuidMug BlankMug 
-#define RoddlevanMug BlankMug 
-#define AsaelloMug BlankMug 
-#define LaraMug BlankMug 
 
 
 
