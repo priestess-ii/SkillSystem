@@ -121,8 +121,6 @@
 
 // fe16 
 #define BylethFMug BlankMug
-#define DimitriMug BlankMug
-#define HubertMug BlankMug
 #define CasparMug BlankMug
 #define DorotheaMug BlankMug
 #define PetraMug BlankMug
@@ -154,7 +152,6 @@
 #define AtlasMug BlankMug
 #define JesseMug BlankMug
 #define DeenFe15Mug BlankMug
-#define EstFe15Mug BlankMug
 #define NomahMug BlankMug
 #define ConradMug BlankMug
 
@@ -191,7 +188,6 @@
 #define OdinMug BlankMug 
 
 // fe4/5 
-#define ArdenMug BlankMug 
 #define DewMug BlankMug 
 #define NaoiseMug BlankMug 
 #define AyraMug BlankMug 

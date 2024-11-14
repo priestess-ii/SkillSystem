@@ -440,11 +440,11 @@ Arden[X]
 ## ArdenDesc  
 A dependable knight from Chalphy.[N]
 Strong, loyal, and protective.[N]
-Art by [X]
+Art by Marymory[X]
 
-## CuanName  
+## QuanName  
 Quan[X]
-## CuanDesc  
+## QuanDesc  
 The prince of Lenster.[N]
 Defender of his homeland and allies.[N]
 Art by Garytop[X]
@@ -2669,9 +2669,9 @@ A sweet and caring princess of Nohr.[N]
 Gifted with healing magic.[N]
 Art by JeyTheCount[X]
 
-## ArthurName  
+## ArthurFE14Name  
 Arthur[X]
-## ArthurDesc  
+## ArthurFE14Desc  
 A justice-driven fighter from Nohr.[N]
 Known for his terrible luck.[N]
 Art by SatoshiKura[X]
@@ -3228,7 +3228,7 @@ Dimitri[X]
 ## DimitriDesc  
 The noble prince of Faerghus.[N]
 Honorable but troubled by his past.[N]
-Art by [X]
+Art by Melia[X]
 
 ## ClaudeFE16Name  
 Claude[X]
@@ -3242,7 +3242,7 @@ Hubert[X]
 ## HubertDesc  
 Edelgard's loyal and enigmatic retainer.[N]
 Skilled in magic and manipulation.[N]
-Art by [X]
+Art by Raymond[X]
 
 ## FerdinandName  
 Ferdinand[X]
