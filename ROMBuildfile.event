@@ -2,7 +2,7 @@
 #define SKILLSYS_INSTALLED 
     #include "EAstdlib.event"
     #include "CustomDefinitions.event"
-#include "Definitions.event" 
+#include "../SRR_FEGBA/Definitions.event" 
 //PROTECT $24670
     ORG FreeSpace
     FILL (0x1000000 - FreeSpace)
