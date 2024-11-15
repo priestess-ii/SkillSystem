@@ -123,4 +123,4 @@ a skill when used.[X]
 #include "unitinfo_text.txt"
 
 
-#include "Names.txt" 
+#include "../../SRR_FEGBA/Text/Names.txt" 
