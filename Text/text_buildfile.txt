@@ -1,4 +1,12 @@
 
+# 0x48F
+For fliers and[N]
+monsters Lv. 10 and up.[X]
+# 0x4CD
+Use this on a worthy[N]
+flier or monster.[X]
+
+
 # 0x0002 textWeaponRankIncreasedTo
  Weapon rank increased to [X]
 

@@ -228,11 +228,30 @@ Res Promo Gain
 NEDU
 NULL
 
-CharClassAbility
+
+Ability 1
 40
-4
+1
 NDHU
-NULL
+ClassForm_BIT40.txt
+
+Ability 2
+41
+1
+NDHU
+ClassForm_BIT41.txt
+
+Ability 3
+42
+1
+NDHU
+ClassForm_BIT42.txt
+
+Ability 4
+43
+1
+NDHU
+ClassForm_BIT43.txt
 
 Sword
 44
