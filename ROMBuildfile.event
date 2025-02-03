@@ -3,7 +3,7 @@
     #include "EAstdlib.event"
     #include "CustomDefinitions.event"
 #include "../SRR_FEGBA/Definitions.event" 
-//PROTECT $24670
+PROTECT $2A730 $2A7FF
     ORG FreeSpace
     FILL (0x1000000 - FreeSpace)
     ORG FreeSpace 

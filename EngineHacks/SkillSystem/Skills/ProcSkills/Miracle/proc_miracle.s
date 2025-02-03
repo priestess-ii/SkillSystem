@@ -45,6 +45,28 @@ ldr r1, MiracleID
 cmp r0, #0
 beq End
 
+
+@if we proc, set the defensive skill flag
+ldr     r2,[r6]    
+lsl     r1,r2,#0xD                @ 0802B42C 0351     
+lsr     r1,r1,#0xD                @ 0802B42E 0B49     
+mov     r0, #0x80
+lsl     r0, #8           @0x8000, defender skill activated
+orr     r1, r0
+
+@and unset the crit flag
+mov r0, #1
+mvn  r0, r0
+and     r1,r0            @unset it
+
+ldr     r0,=#0xFFF80000                @ 0802B434 4804     
+and     r0,r2                @ 0802B436 4010     
+orr     r0,r1                @ 0802B438 4308     
+str     r0,[r6]                @ 0802B43A 6018   
+ldrb r0, MiracleID
+strb r0, [r6,#4]
+
+
 @and set damage to currhp-1
 ldrb r0, [r5, #0x13] @currhp
 sub r0, #1
