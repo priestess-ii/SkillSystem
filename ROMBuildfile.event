@@ -1,6 +1,7 @@
 #ifdef _FE8_
 #define SKILLSYS_INSTALLED 
     #include "EAstdlib.event"
+    #include "Extensions/Hack Installation.txt" 
     #include "CustomDefinitions.event"
 #include "../SRR_FEGBA/Definitions.event" 
 PROTECT $2A730 $2A7FF
@@ -15,6 +16,7 @@ PROTECT $2A730 $2A7FF
     ORG 0x1030000
     #include "../SRR_FEGBA/gfx/Installer.event" 
     MESSAGE Gfx space ends at currentOffset 
+    #include "../SRR_FEGBA/bgm/Installer.event"
 
 
 

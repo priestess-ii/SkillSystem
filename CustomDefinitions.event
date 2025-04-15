@@ -1,5 +1,6 @@
 // #define FreeSpace 0xb2a610
 // #define FreeSpaceEnd 0xC00000
+// PROTECT $
 #define FreeSpace 0xFE4000
 #define FreeSpaceEnd 0x2000000
 #define FreeSpaceBLRange 0x1c1ec0

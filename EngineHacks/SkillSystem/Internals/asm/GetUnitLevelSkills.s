@@ -25,12 +25,12 @@ GetUnitLevelSkills:
 	@ As it makes it easier to hack in (or out) methods of defining level-up skills.
 
 	push {r3, r4-r7, lr} @ save r3 for returning it later
-
+mov r4, r8 
+push {r4} 
 	push {r1, r2}
 	mov r7, r0 @ var r7 = unit
 	mov r6, r3 @ var r6 = output
-    push {r6} @ Vesly save start of buffer 
-
+mov r8, r3 @ Vesly save start of buffer 
 check_char_skill:
 	@ Checking char skill list
 
@@ -209,9 +209,8 @@ write_class_skill:
 
 end_class_skill:
 
-pop {r5} @ start of buffer 
 RandomizeSkillLoop: 
-cmp r5, r6 
+mov r5, r8 @ start of buffer 
 bge TerminateList
 ldrb r0, [r5] 
 add r5, #1 
@@ -227,6 +226,8 @@ TerminateList:
 	strb r0, [r6]
 
 	pop {r1, r2}
+    pop {r4} 
+    mov r8, r4 
 	pop {r0, r4-r7} @ return output buffer in r0
     pop {r1} @ lr 
 	bx r1 
