@@ -1,3 +1,23 @@
+
+  // #define defStatBoosts(hp, str, mag, skl, spd, luk, def, res) "BYTE hp str skl spd def res luk mag"
+OneSpdBadDefResBoost:
+defStatBoosts(0, 0, 0, 0, 1, 0, (-1), (-1)) 
+
+TwoSpdBadDefResBoost:
+defStatBoosts(0, 0, 0, 0, 2, 0, (-2), (-2)) 
+
+ThreeSpdBadDefResBoost:
+defStatBoosts(0, 0, 0, 0, 3, 0, (-3), (-3)) 
+
+FiveDefResBoost:
+defStatBoosts(0, 0, 0, 0, 0, 0, 5, 5) 
+OneDefResBoost:
+defStatBoosts(0, 0, 0, 0, 0, 0, 1, 1) 
+TwoResBoost:
+defStatBoosts(0, 0, 0, 0, 0, 0, 0, 2) 
+
+
+
 #define BuffEnemy 0x40 
 #define DebuffSelf 0xC0 
 #define DebuffEnemy 0x80 

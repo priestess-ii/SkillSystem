@@ -60,6 +60,7 @@
   #define LynLock 0x00100000
   #define AthosLock 0x00200000
 #endif
+#define DoubleWTA 0x00400000 
 
 //Used For Consolidated AdvWeaponLocks 
 #define AdvWeaponLock 0x01000000
