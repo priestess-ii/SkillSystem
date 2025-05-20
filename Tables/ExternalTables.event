@@ -1,5 +1,5 @@
-
-  // #define defStatBoosts(hp, str, mag, skl, spd, luk, def, res) "BYTE hp str skl spd def res luk mag"
+  // defStatBoosts(hp, str, mag, skl, spd, luk, def, res)
+  // defStatBoosts(hp, str, mag, skl, spd, luk, def, res, mov, con)
 OneSpdBadDefResBoost:
 defStatBoosts(0, 0, 0, 0, 1, 0, (-1), (-1)) 
 
@@ -18,68 +18,69 @@ defStatBoosts(0, 0, 0, 0, 0, 0, 0, 2)
 
 // +2 Movement points
 TwoMovBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 2) 
+defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0, 2, 0) 
 
 // ***************Shattered Orb Parts***************
 // Saggittarius
+// passiveGrowthBoost(hp, str, mag, skl, spd, luk, def, res)
 // -10 HP +40 SKL +10 SPD
 saggitariusGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost((-10), 0, 0, 40, 10, 0, 0, 0) 
 
 // Aries
 // +40 LCK
 ariesGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(0, 0, 0, 0, 0, 40, 0, 0) 
 
 // Taurus
 // +5 To everything
 taurusGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(5, 5, 5, 5, 5, 5, 5, 5) 
 
 // Gemini
 // +30 STR +20 DEF
 geminiGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(0, 30, 0, 0, 0, 0, 20, 0) 
 
 // Cancer
 // -10 STR +50 DEF
 cancerGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(0, (-10), 0, 0, 0, 0, 50, 0) 
 
 // Leo
 // +50 STR -10 DEF
 leoGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(0, 50, 0, 0, 0, 0, (-10), 0) 
 
 // Virgo
 // -10 DEF +30 RES
 virgoGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(0, 0, 0, 0, 0, 0, (-10), 30) 
 
 // Libra
 // -10 HP,RES +10 LCK +40 SPD
 libraGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost((-10), 0, 0, 0, 40, 10, 0, (-10)) 
 
 // Scorpio
 // +20 STR,SKL +10 SPD -10 LCK
 scorpioGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(0, 20, 0, 20, (-10), (-10), 0, 0) 
 
 // Capricorn
 // +20 HP -10 SKL,SPD +10 DEF
 capricornGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(20, 0, 0, (-10), 10, 0, 10, 0) 
 
 // Aquarius
 // +10 STR,SPD,SKL
 aquariusGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(0, 10, 0, 10, 10, 0, 0, 0) 
 
 // Pisces
 // +10 HP,LCK,DEF,RES
 piscesGrowthBoost:
-defStatBoosts(0, 0, 0, 0, 0, 0, 0, 0) 
+passiveGrowthBoost(10, 0, 0, 0, 0, 10, 10, 10) 
 
 
 #define BuffEnemy 0x40 
