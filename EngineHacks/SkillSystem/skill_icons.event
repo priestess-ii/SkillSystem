@@ -1089,19 +1089,19 @@ ORG SkillIcon(AdvantageChaserID)
 #incbin "SkillIcons/AdvantageChaser.dmp"
 
 ORG SkillIcon(DrawBackID)
-#incbin "SkillIcons/Acrobat.dmp"
+#incbin "SkillIcons/DrawBack_JeorgeReds.dmp"
 ORG SkillIcon(SacrificeID)
-#incbin "SkillIcons/Acrobat.dmp"
+#incbin "SkillIcons/Sacrifice_mimikyudis.dmp"
 ORG SkillIcon(ArdentSacrificeID)
-#incbin "SkillIcons/Acrobat.dmp"
+#incbin "SkillIcons/Ardentsacrifice_mimikyudis.dmp"
 ORG SkillIcon(ReciprocalAidID)
-#incbin "SkillIcons/Acrobat.dmp"
+#incbin "SkillIcons/ReciprocalAid_mimikyudis.dmp"
 ORG SkillIcon(FailGaleID)
 #incbin "SkillIcons/FailGale.dmp"
 ORG SkillIcon(MultiscaleID)
 #incbin "SkillIcons/Acrobat.dmp"
 ORG SkillIcon(FlankID)
-#incbin "SkillIcons/Acrobat.dmp"
+#incbin "SkillIcons/Flank_mimikyudis.dmp"
 ORG SkillIcon(SwarmID)
 #incbin "SkillIcons/Acrobat.dmp"
 
@@ -1113,7 +1113,7 @@ ORG SkillIcon(HighGroundID)
 ORG SkillIcon(NoGuardID)
 #incbin "SkillIcons/Acrobat.dmp"
 ORG SkillIcon(SpeedBoostID)
-#incbin "SkillIcons/Acrobat.dmp"
+#incbin "SkillIcons/Speedboost_mimikyudis.dmp"
 ORG SkillIcon(WonderGuardID)
 #incbin "SkillIcons/Acrobat.dmp"
 ORG SkillIcon(AnalyticID)
@@ -1125,7 +1125,7 @@ ORG SkillIcon(LunarBraceID)
 ORG SkillIcon(DroughtID)
 #incbin "SkillIcons/Drought.dmp"
 ORG SkillIcon(PickupID)
-#incbin "SkillIcons/Acrobat.dmp"
+#incbin "SkillIcons/Pickup_mimikyudis.dmp"
 ORG SkillIcon(TechnicianID)
 #incbin "SkillIcons/Technician.dmp"
 ORG SkillIcon(SolarPowerID)
@@ -1157,7 +1157,7 @@ ORG SkillIcon(RunningStartID)
 ORG SkillIcon(CatchingUpID)
 #incbin "SkillIcons/CatchingUp.dmp"
 ORG SkillIcon(NonconformingID)
-#incbin "SkillIcons/Acrobat.dmp"
+#incbin "SkillIcons/Non_conforming_mimikyudis.dmp"
 ORG SkillIcon(ConcealedWeaponID)
 #incbin "SkillIcons/ConcealedWeapon.dmp"
 ORG SkillIcon(DetonateID)
