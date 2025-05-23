@@ -62,10 +62,14 @@ NoAlways:
 	ldrb r0, [r2, r6] @ skill byte
 	cmp r0, #0
 	beq no_personal
+    push {r0} 
 mov r1, r4 @ unit 
 bl RandomizeSkill 
+pop {r1} 
 	cmp r0, #0
 	beq no_personal
+    cmp r0, r1 
+    bne no_personal 
 
 	strb r0, [r5]
 	add  r5, #1
@@ -80,8 +84,8 @@ no_personal:
 	ldrb r0, [r2, r0] @ skill byte
 	cmp r0, #0
 	beq no_class
-mov r1, r4 @ unit 
-bl RandomizeSkill 
+@mov r1, r4 @ unit 
+bl ValidateSkill 
 	cmp r0, #0
 	beq no_class
 	strb r0, [r5]
@@ -104,7 +108,7 @@ lop:
 	cmp  r0, #0
 	beq  continue
 mov r1, r4 
-@bl RandomizeSkill
+bl ValidateSkill
 	cmp  r0, #0
 	beq  continue
 	strb r0, [r5]

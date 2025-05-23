@@ -5,6 +5,7 @@ extern s8 AreUnitsAllied(int left, int right);
 extern s8 IsSameAllegiance(int left, int right);
 /*Helper functions*/
 static int absolute(int value) { return value < 0 ? -value : value; }
+extern int ValidateSkill(int skillID);
 static bool IsSkillIDValid(u8 skillID) {
   return skillID != 0 && skillID != 255;
 }
@@ -69,19 +70,22 @@ SkillBuffer *MakeSkillBuffer(struct Unit *unit, SkillBuffer *buffer) {
   buffer->lastUnitChecked = unit->index;
 
   temp = GetAlwaysSkill(unit);
-  if (IsSkillIDValid(temp)) {
+  if (ValidateSkill(temp)) {
     buffer->skills[count++] = temp;
   }
 
   // Personal skill
   temp = RandomizeSkill(PersonalSkillTable[unitNum], unit);
-  if (IsSkillIDValid(temp)) {
+  if (temp != PersonalSkillTable[unitNum]) {
+    temp = 0;
+  }
+  if (ValidateSkill(temp)) {
     buffer->skills[count++] = temp;
   }
 
-  // Class skill
-  temp = RandomizeSkill(ClassSkillTable[unit->pClassData->number], unit);
-  if (IsSkillIDValid(temp)) {
+  // Keep Class skill
+  temp = ClassSkillTable[unit->pClassData->number];
+  if (ValidateSkill(temp)) {
     buffer->skills[count++] = temp;
   }
 
@@ -89,7 +93,7 @@ SkillBuffer *MakeSkillBuffer(struct Unit *unit, SkillBuffer *buffer) {
   BWLData *unitBWL = (BWLData *)GetPidStats(unitNum);
   if (unitBWL) {
     for (int i = 0; i < 4; ++i) {
-      if (!IsSkillIDValid(unitBWL->skills[i])) {
+      if (!ValidateSkill(unitBWL->skills[i])) {
         break;
       }
       // buffer->skills[count++] = RandomizeSkill(unitBWL->skills[i], unit);
@@ -101,7 +105,7 @@ SkillBuffer *MakeSkillBuffer(struct Unit *unit, SkillBuffer *buffer) {
   else {
     u8 *tempBuffer = GetInitialSkillList_Pointer(unit, gTempSkillBuffer);
     for (int i = 0; i < gSkillTestConfig.genericLearnedSkillLimit; ++i) {
-      if (!IsSkillIDValid(tempBuffer[i])) {
+      if (!ValidateSkill(tempBuffer[i])) {
         break;
       }
       buffer->skills[count++] = RandomizeSkill(tempBuffer[i], unit);
@@ -112,7 +116,7 @@ SkillBuffer *MakeSkillBuffer(struct Unit *unit, SkillBuffer *buffer) {
   for (int i = 0; i < 5 && unit->items[i]; ++i) {
     temp = unit->items[i];
     if ((GetItemAttributes(temp) & PassiveSkillBit)) {
-      if (IsSkillIDValid(GetItemDataExt(temp & 0xFF)->skill)) {
+      if (ValidateSkill(GetItemDataExt(temp & 0xFF)->skill)) {
         buffer->skills[count++] = GetItemDataExt(temp & 0xFF)->skill;
         // If passive skills don't stack, stop looping
         if (!gSkillTestConfig.passiveSkillStack) {
@@ -135,7 +139,7 @@ SkillBuffer *MakeSkillBuffer(struct Unit *unit, SkillBuffer *buffer) {
   }
 
   // Check if equipped weapon skill is valid
-  if (IsSkillIDValid(temp)) {
+  if (ValidateSkill(temp)) {
     buffer->skills[count++] = temp;
   }
 

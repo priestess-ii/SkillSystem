@@ -37,10 +37,10 @@ HookUnitLoading:
 	add r0, #1 @ start at byte 1, not 0
 
 	mov  r1, #0
-	strb r1, [r0]
-	strb r1, [r0, #1]
-	strb r1, [r0, #2]
-	strb r1, [r0, #3]
+	@strb r1, [r0] @Vesly so skills can be set in my C code 
+	@strb r1, [r0, #1]
+	@strb r1, [r0, #2]
+	@strb r1, [r0, #3]
 
 	ldr r3, lAutoloadSkills
 
