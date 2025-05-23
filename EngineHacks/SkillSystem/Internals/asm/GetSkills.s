@@ -68,9 +68,17 @@ bl RandomizeSkill
 pop {r1} 
 	cmp r0, #0
 	beq no_personal
+    
+    ldr r2, [r4, #0] 
+    ldr r2, [r2, #0x28] 
+    mov r3, #0x80 
+    lsl r3, #8 
+    tst r2, r3 
+    bne BossSkill 
     cmp r0, r1 
     bne no_personal 
 
+BossSkill:
 	strb r0, [r5]
 	add  r5, #1
 

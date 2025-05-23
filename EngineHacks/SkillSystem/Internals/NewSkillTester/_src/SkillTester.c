@@ -76,7 +76,8 @@ SkillBuffer *MakeSkillBuffer(struct Unit *unit, SkillBuffer *buffer) {
 
   // Personal skill
   temp = RandomizeSkill(PersonalSkillTable[unitNum], unit);
-  if (temp != PersonalSkillTable[unitNum]) {
+  int notBoss = !(UNIT_CATTRIBUTES(unit) & CA_BOSS);
+  if ((temp != PersonalSkillTable[unitNum]) && notBoss) {
     temp = 0;
   }
   if (ValidateSkill(temp)) {
