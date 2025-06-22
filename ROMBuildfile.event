@@ -12,8 +12,6 @@ PROTECT $2A730 $2A7FF
     //Text first for Text ID definitions
     #include "Text/InstallTextData.event"
     MESSAGE Used text space ends at currentOffset
-    MESSAGE CURRENTOFFSET 
-    ORG 0x1030000
     #include "../SRR_FEGBA/gfx/Installer.event" 
     MESSAGE Gfx space ends at currentOffset 
     #include "../SRR_FEGBA/bgm/Installer.event"

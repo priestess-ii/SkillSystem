@@ -6,7 +6,10 @@
 
 @rem defining buildfile config
 
-set "source_rom=%~dp0FE8_clean.gba"
+py "..\SRR_FEGBA\copyfromanimscache_fe8.py"
+
+set "source_rom=%~dp0fe8cache.gba"
+set "vanilla_rom=%~dp0FE8_clean.gba"
 
 set "main_event=%~dp0ROMBuildfile.event"
 
@@ -67,7 +70,7 @@ ColorzCore A FE8 "-output:%target_rom%" "-input:%main_event%" --nocash-sym "--bu
   echo Generating patch
 
   cd "%base_dir%"
-  "%ups%" diff -b "%source_rom%" -m "%target_rom%" -o "%target_ups%"
+  "%ups%" diff -b "%vanilla_rom%" -m "%target_rom%" -o "%target_ups%"
 
 
 echo:
