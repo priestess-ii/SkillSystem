@@ -172,7 +172,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 
 //If uncommented, UTF-8 will be implemented. 
 //This allows for adding new fonts/characters and includes NarrowFont by default. 
-#define UTF8 
+// #define UTF8 
 
 // Do not define NARROW_FONT and UTF8 simultaneously. 
 #ifdef UTF8 
