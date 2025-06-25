@@ -208,9 +208,9 @@ ArmoredBlowID
 //By Darrman
 HeroesDeathBlowID
 
-//Eclipse: Leave opponent with 1 HP. (Skill % activation)
-//By Sme
-EclipseID
+//Poison Strike: Deals damage equal to 20% of the enemy's max HP after battle this unit initiates.
+//By Snakey1
+PoisonStrikeID
 
 //Enrage: Inflict berserk status. (Skill% activation)
 //By Sme
@@ -716,6 +716,10 @@ WatchfulID
 //By Jester
 SnowWarningID 255
 
+//Eclipse: Leave opponent with 1 HP. (Skill % activation)
+//By Sme
+EclipseID
+
 //Imbue: Recover HP equal to Magic at the start of each turn.
 //By Sme
 ImbueID
@@ -816,9 +820,7 @@ IdentityProblemsID
 //Author Unknown (Initial Commit)
 LifetakerID
 
-//Poison Strike: Deals damage equal to 20% of the enemy's max HP after battle this unit initiates.
-//By Snakey1
-PoisonStrikeID
+
 
 //Re-Move: Luck% chance to get another action at end of turn.
 //By Sme

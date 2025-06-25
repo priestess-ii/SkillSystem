@@ -52,7 +52,7 @@
 #define CertainBlowID 0x34
 #define ArmoredBlowID 0x35
 #define HeroesDeathBlowID 0x36
-#define EclipseID 0x37
+#define PoisonStrikeID 0x37
 #define EnrageID 0x38
 #define EternalVanityID 0x39
 #define FailGaleID 0x3A
@@ -221,6 +221,7 @@
 #define WaryFighterID 0xDD
 #define WatchfulID 0xDE
 #define SnowWarningID 0xFF
+#define EclipseID 0xFF
 #define ImbueID 0xFF
 #define RouseMagID 0xFF
 #define HoneMagID 0xFF
@@ -250,7 +251,6 @@
 #define RandomMugID 0xFF
 #define IdentityProblemsID 0xFF
 #define LifetakerID 0xFF
-#define PoisonStrikeID 0xFF
 #define ReMoveID 0xFF
 #define GridmasterID 0xFF
 #define PoisonPointID 0xFF
