@@ -221,6 +221,9 @@
 #define WaryFighterID 0xDD
 #define WatchfulID 0xDE
 #define SnowWarningID 0xFF
+#define VeteranID 0xFF
+#define FactionSlayerID 0xFF
+#define ArmsMasterID 0xFF
 #define EclipseID 0xFF
 #define ImbueID 0xFF
 #define RouseMagID 0xFF
