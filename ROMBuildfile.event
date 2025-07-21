@@ -4,7 +4,7 @@
     #include "Extensions/Hack Installation.txt" 
     #include "CustomDefinitions.event"
 #include "../SRR_FEGBA/Definitions.event" 
-PROTECT $2A730 $2A7FF
+// PROTECT $2c08 $3577
     ORG FreeSpace
     FILL (0x1000000 - FreeSpace)
     ORG FreeSpace 
