@@ -7,7 +7,7 @@
 ALIGN 4
 TextTable:
   #incbin "Text/NewTextTable.dmp"
-  ORG TextTable + (MaxTextEntries) * 4
+  ORG TextTable + (MaxTextEntries * 4) // don't use fill before the incbin 
 
 PUSH
 

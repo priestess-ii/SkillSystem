@@ -1,4 +1,5 @@
 #ifdef _FE8_
+// PROTECT $1d0cdac
 #define SKILLSYS_INSTALLED 
     #include "EAstdlib.event"
     #include "Extensions/Hack Installation.txt" 
