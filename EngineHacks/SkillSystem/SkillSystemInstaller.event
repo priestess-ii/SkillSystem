@@ -1,4 +1,6 @@
 
+
+#include "magic_identifiers_febuilder.event" 
 #include "Internals/SkillSystem.event"
 
 #ifndef USE_LEGACY_SKILL_DEFAULTS

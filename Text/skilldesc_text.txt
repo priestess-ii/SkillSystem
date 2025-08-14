@@ -1,4 +1,7 @@
 
+## SD_NoSkill
+Blank skill: does nothing.[X]
+
 ## SD_Savior
 Savior: Can rescue[N]
 without penalties.[X]
