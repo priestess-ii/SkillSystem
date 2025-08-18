@@ -1,4 +1,4 @@
-INLINE NewPromotionBranchTable,B0,B1
+INLINE NewPromotionBranchTable ,B0,B1
 0,0x00,0x00
 01 Lord,0x03,0x00
 02 Lord,0x04,0x00

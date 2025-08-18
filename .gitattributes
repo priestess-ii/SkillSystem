@@ -9,6 +9,7 @@
 *.csv   text
 *.bat   text
 *.log   text
+*.csv text eol=lf
 
 # Custom for Visual Studio
 *.cs     diff=csharp
